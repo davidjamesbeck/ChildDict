@@ -1,0 +1,789 @@
+H1	H2  - PURPLE	H3 - BLUE	word	eng
+Me & My Family	Pronouns	Independent pronouns	’een’thu	I
+Me & My Family	Pronouns	Independent pronouns	nuwu	you (referring to one person)
+Me & My Family	Pronouns	Independent pronouns	lhnimulh	we
+Me & My Family	Pronouns	Independent pronouns	lhwulup	you (referring to more than one person)
+Me & My Family	Pronouns	Independent pronouns	nilh	he, she
+Me & My Family	Pronouns	Independent pronouns	ne’ullh	they
+Me & My Family	Pronouns	Subject pronouns 	tsun	I
+Me & My Family	Pronouns	Subject pronouns 	ch	you
+Me & My Family	Pronouns	Subject pronouns 	tst	we
+Me & My Family	Pronouns	Subject pronouns 	tseep	you (you all)
+Me & My Family	Pronouns	Subject pronouns 	us	he, she, they
+Me & My Family	Body & Feelings	Head & face	sxuy’us	head
+Me & My Family	Body & Feelings	Head & face	s’athus	face
+Me & My Family	Body & Feelings	Head & face	sqw’umus	forehead
+Me & My Family	Body & Feelings	Head & face	thamun	eyebrow
+Me & My Family	Body & Feelings	Head & face	qulum'	eye
+Me & My Family	Body & Feelings	Head & face	shp'q'eelh	white of eye
+Me & My Family	Body & Feelings	Head & face	shq'xeelh	pupil (black of the eye)
+Me & My Family	Body & Feelings	Head & face	muqsun	nose
+Me & My Family	Body & Feelings	Head & face	*SPACE*
+Me & My Family	Body & Feelings	Head & face	qw'oon'	ear
+Me & My Family	Body & Feelings	Head & face	qw'un'qw'oon'	ears
+Me & My Family	Body & Feelings	Head & face	shtl'pun'u	earlobe
+Me & My Family	Body & Feelings	Head & face	*SPACE*
+Me & My Family	Body & Feelings	Head & face	kwuy'hwulhnulh	neck (front part)
+Me & My Family	Body & Feelings	Head & face	tupsum	neck (back of neck)
+Me & My Family	Body & Feelings	Head & face	shhw'uthqun	throat
+Me & My Family	Body & Feelings	Head & face	xwamlhnulh	throat, windpipe, trachea
+Me & My Family	Body & Feelings	Head & face	*SPACE*
+Me & My Family	Body & Feelings	Head & face	thathun	mouth
+Me & My Family	Body & Feelings	Head & face	slhqwulnus	gums
+Me & My Family	Body & Feelings	Head & face	tuhwthulh	tongue
+Me & My Family	Body & Feelings	Head & face	yunus	tooth
+Me & My Family	Body & Feelings	Head & face	huyinus	teeth
+Me & My Family	Body & Feelings	Head & face	stslhaythun	lip: upper lip
+Me & My Family	Body & Feelings	Head & face	stl'paythun	lip: lower lip
+Me & My Family	Body & Feelings	Head & face	shhw'ii'nu	cheek of animal/human
+Me & My Family	Body & Feelings	Head & face	shhw'un'ii'nu	cheeks
+Me & My Family	Body & Feelings	Head & face	*SPACE*
+Me & My Family	Body & Feelings	Head & face	ts'um'shaythun	jaw
+Me & My Family	Body & Feelings	Head & face	sqwini'uthun	beard
+Me & My Family	Body & Feelings	Head & face	*SPACE*
+Me & My Family	Body & Feelings	Head & face	shkw'i'tth'ul'uqw	top of the head
+Me & My Family	Body & Feelings	Head & face	she'itun	hair
+Me & My Family	Body & Feelings	Head & face	st'qw'i'al's	bangs (hair bangs)
+Me & My Family	Body & Feelings	Head & face	tskwi'ma'qw	red haired (redheaded)
+Me & My Family	Body & Feelings	Arms & legs	*SPACE*
+Me & My Family	Body & Feelings	Arms & legs	snuxtsus	finger
+Me & My Family	Body & Feelings	Arms & legs	sun'tl'a'luw'tsus	thumb
+Me & My Family	Body & Feelings	Arms & legs	tselush	hand
+Me & My Family	Body & Feelings	Arms & legs	tsultselush	hands
+Me & My Family	Body & Feelings	Arms & legs	su'asuqwta'luw'tsus	finger: little finger
+Me & My Family	Body & Feelings	Arms & legs	qw'xwa'luw'tsus	fingernail
+Me & My Family	Body & Feelings	Arms & legs	stth'ukwtsis	left hand
+Me & My Family	Body & Feelings	Arms & legs	s'i'a'lum'tsus	right hand
+Me & My Family	Body & Feelings	Arms & legs	shxathus	palm of hand; sole of foot
+Me & My Family	Body & Feelings	Arms & legs	*SPACE*
+Me & My Family	Body & Feelings	Arms & legs	t'eluw'	arm; wing
+Me & My Family	Body & Feelings	Arms & legs	t'ult'eluw'	arms
+Me & My Family	Body & Feelings	Arms & legs	qwum'xwtsus	wrist
+Me & My Family	Body & Feelings	Arms & legs	kwum'tth'ulexun'	elbow
+Me & My Family	Body & Feelings	Arms & legs	sqwuntsus	hair on arm
+Me & My Family	Body & Feelings	Arms & legs	stth'kwu'iw's	left side, arm
+Me & My Family	Body & Feelings	Arms & legs	s'i'a'lum'iw's	right side, right arm
+Me & My Family	Body & Feelings	Arms & legs	*SPACE*
+Me & My Family	Body & Feelings	Arms & legs	shqp'althutun	knee-cap
+Me & My Family	Body & Feelings	Arms & legs	sq'ewum	knee
+Me & My Family	Body & Feelings	Arms & legs	sq'uw'q'ewum	knees
+Me & My Family	Body & Feelings	Arms & legs	q'etl'ul'shun	calf of leg
+Me & My Family	Body & Feelings	Arms & legs	qwum'xwshun	ankle
+Me & My Family	Body & Feelings	Arms & legs	stth'ukwshin'	left foot
+Me & My Family	Body & Feelings	Arms & legs	s'i'a'luw'shun	right foot
+Me & My Family	Body & Feelings	Arms & legs	sxun'u	foot, leg
+Me & My Family	Body & Feelings	Arms & legs	sxuxi'nu	legs, feet
+Me & My Family	Body & Feelings	Arms & legs	snuhwulhshun	foot
+Me & My Family	Body & Feelings	Arms & legs	snuxshun	toe
+Me & My Family	Body & Feelings	Arms & legs	qw'xwa'luw'shun	toenail
+Me & My Family	Body & Feelings	Arms & legs	su'asuqwta'luw'shun	toe: little toe
+Me & My Family	Body & Feelings	Arms & legs	sun'tl'a'luw'shun	toe: big toe
+Me & My Family	Body & Feelings	Body core	smustimuhw	body
+Me & My Family	Body & Feelings	Body core	kw'uluw'	skin (hide, fur, pelt, bark)
+Me & My Family	Body & Feelings	Body core	shtth'utth'a'	skeleton
+Me & My Family	Body & Feelings	Body core	ts'xemun	chest
+Me & My Family	Body & Feelings	Body core	slhuq'we'lh	back
+Me & My Family	Body & Feelings	Body core	qwuqw'ten	shoulder
+Me & My Family	Body & Feelings	Body core	s’inus	breastbone, chest
+Me & My Family	Body & Feelings	Body core	luwux	ribs (and on canoes and boats)
+Me & My Family	Body & Feelings	Body core	qtewustun	waist, waistband or waistline
+Me & My Family	Body & Feelings	Body core	slhulnuts	bottom
+Me & My Family	Body & Feelings	Internal organs	Internal	organs
+Me & My Family	Body & Feelings	Internal organs	tth’ele’	heart
+Me & My Family	Body & Feelings	Internal organs	thethi'un	blood
+Me & My Family	Body & Feelings	Internal organs	slhkw'emuws	pulse
+Me & My Family	Body & Feelings	Internal organs	thunthun	kidney
+Me & My Family	Body & Feelings	Internal organs	t'eqe'	liver (human)
+Me & My Family	Body & Feelings	Internal organs	kw’ul’u	stomach (abdomen)
+Me & My Family	Body & Feelings	Internal organs	xxx	bladder
+Me & My Family	Body & Feelings	Internal organs	suxwa’	pee
+Me & My Family	Body & Feelings	Internal organs	xxx	lung
+Me & My Family	Body & Feelings	Internal organs	slhekw'um	breath
+Me & My Family	Body & Feelings	Internal organs	q'uq'i'	intestines
+Me & My Family	Body & Feelings	Internal organs	*SPACE*
+Me & My Family	Body & Feelings	Feelings & Senses	shqwaluwun	feelings, thoughts
+Me & My Family	Body & Feelings	Feelings & Senses	xtsuthut	think
+Me & My Family	Body & Feelings	Feelings & Senses	sht’eewun’	think, believe, wonder
+Me & My Family	Body & Feelings	Feelings & Senses	*SPACE*
+Me & My Family	Body & Feelings	Feelings & Senses	si’si’	afraid
+Me & My Family	Body & Feelings	Feelings & Senses	qiqul’us	sad
+Me & My Family	Body & Feelings	Feelings & Senses	sqiqul’us	sad
+Me & My Family	Body & Feelings	Feelings & Senses	tuqnuhw	feel bad about
+Me & My Family	Body & Feelings	Feelings & Senses	suyum	hurt, get pains
+Me & My Family	Body & Feelings	Feelings & Senses	sqwsun’e’	anchored; angry, bad mood
+Me & My Family	Body & Feelings	Feelings & Senses	s’ey’qsta’mu	angry at you (and disagree with you)
+Me & My Family	Body & Feelings	Feelings & Senses	qel’nal’hw	angry with us
+Me & My Family	Body & Feelings	Feelings & Senses	qel’nuhw	mad at (being mad at)
+Me & My Family	Body & Feelings	Feelings & Senses	qulnuhw	mad at (get mad at)
+Me & My Family	Body & Feelings	Feelings & Senses	qulstuhw	dislike
+Me & My Family	Body & Feelings	Feelings & Senses	him’tth’en’t	disbelieve him
+Me & My Family	Body & Feelings	Feelings & Senses	hwquluwun	mean
+Me & My Family	Body & Feelings	Feelings & Senses	hwnats’us	look or act innocent when guilty
+Me & My Family	Body & Feelings	Feelings & Senses	sxixutth’	insulted, hurt by harsh words
+Me & My Family	Body & Feelings	Feelings & Senses	xitth’ul	insulted: become insulted, hurt by harsh words
+Me & My Family	Body & Feelings	Feelings & Senses	xixutth’ul’	insulted: feeling insulted, feeling hurt by harsh words
+Me & My Family	Body & Feelings	Feelings & Senses	mel’q	forget
+Me & My Family	Body & Feelings	Feelings & Senses	mel’qt	forget it
+Me & My Family	Body & Feelings	Feelings & Senses	me’mul’q	forgetting
+Me & My Family	Body & Feelings	Feelings & Senses	smel’q	forgotten
+Me & My Family	Body & Feelings	Feelings & Senses	skwati	crazy
+Me & My Family	Body & Feelings	Feelings & Senses	ts’uq’	astonished
+Me & My Family	Body & Feelings	Feelings & Senses	tsatuxwul	bewildered: to become stunned or bewildered
+Me & My Family	Body & Feelings	Feelings & Senses	stl’i’	want, desire, like
+Me & My Family	Body & Feelings	Feelings & Senses	wuwi’stun’uq	jealous: being jealous
+Me & My Family	Body & Feelings	Feelings & Senses	tl’i’tul	like each other
+Me & My Family	Body & Feelings	Feelings & Senses	’uy’stuhw	like it, him, or her
+Me & My Family	Body & Feelings	Feelings & Senses	tl’i’t	like, not want to part with something one treasures
+Me & My Family	Body & Feelings	Feelings & Senses	ts’elhum’	hear
+Me & My Family	Body & Feelings	Feelings & Senses	ts’elhum’ut	hear
+Me & My Family	Body & Feelings	Feelings & Senses	huqwnuhw	smell it
+Me & My Family	Body & Feelings	Feelings & Senses	haqwut	smell it, sniff it
+Me & My Family	Body & Feelings	Feelings & Senses	sal’lus	lightheaded; slightly inebriated, feeling good
+Me & My Family	Body & Feelings	Feelings & Senses	squlquluthun	dream (noun)
+Me & My Family	Body & Feelings	Feelings & Senses	xuyxayukw’ustum	nightmare: have a nightmare
+Me & My Family	Body & Feelings	Feelings & Senses	xuyxayukw’usthelum	nightmare: I had a nightmare
+Me & My Family	Relations	Parents	shhwuw’weli	parents, relatives
+Me & My Family	Relations	Parents	shhwuw’we	parent
+Me & My Family	Relations	Parents	men	father
+Me & My Family	Relations	Parents	me’	dad
+Me & My Family	Relations	Parents	ten	mother
+Me & My Family	Relations	Parents	te’	mom
+Me & My Family	Relations	Parents	tsi’tsut	parent (when speaking of someone else’s parent)
+Me & My Family	Relations	Parents	tsuli’tsut	parents Note
+Me & My Family	Relations	Parents	tslile’em	stepparent
+Me & My Family	Relations	Siblings & children	qw’uqw’i’tul	siblings
+Me & My Family	Relations	Siblings & children	shhw’aqw’a’	brother, sister, cousin
+Me & My Family	Relations	Siblings & children	shhw’a’luqw’a’	brothers, sisters, cousins
+Me & My Family	Relations	Siblings & children	sts’iyayu	twins
+Me & My Family	Relations	Siblings & children	shuyulh	sibling: older brother, sister, cousin
+Me & My Family	Relations	Siblings & children	shushiyulh	older brothers, sisters, cousins
+Me & My Family	Relations	Siblings & children	sqe’uq	sibling: younger sister, brother, cousin
+Me & My Family	Relations	Siblings & children	snuts’uwyulh	sibling: half brother or sister
+Me & My Family	Relations	Children 	stl’i’tl’qulh	child
+Me & My Family	Relations	Children 	stl’ul’iqulh	children
+Me & My Family	Relations	Children 	tslhmun’um	stepchild
+Me & My Family	Relations	Children 	mun’u	offspring: son, daughter
+Me & My Family	Relations	Children 	mim’ne’	offspring: son, daughter DIM
+Me & My Family	Relations	Children 	me’mun’u	offspring: sons, daughters
+Me & My Family	Relations	Children 	*SPACE*
+Me & My Family	Relations	Children 	stiwun	nephew, niece
+Me & My Family	Relations	Children 	tiwun	nephew (address form)
+Me & My Family	Relations	Children 	stutiwun	nieces, nephews
+Me & My Family	Relations	Marriage, partners	*SPACE*
+Me & My Family	Relations	Marriage, partners	sta’lus	spouse (husband, wife)
+Me & My Family	Relations	Marriage, partners	tsehw	spouse
+Me & My Family	Relations	Marriage, partners	sq’a’	companion, mate, spouse
+Me & My Family	Relations	Marriage, partners	naw’	term of endearment addressed to a spouse
+Me & My Family	Relations	Marriage, partners	mulyitul	marry
+Me & My Family	Relations	Marriage, partners	sme’luyi	married
+Me & My Family	Relations	Marriage, partners	tsta’lus	marry: get a wife or husband
+Me & My Family	Relations	Marriage, partners	sye’tun	widow
+Me & My Family	Relations	Marriage, partners	kwukwa’tul	divorced, apart, separated
+Me & My Family	Relations	Extended family	*SPACE*
+Me & My Family	Relations	Extended family	shtun’ni’iws	ancestor
+Me & My Family	Relations	Extended family	sye’ye’	friend, relative
+Me & My Family	Relations	Extended family	siiye’yu	friends, relatives
+Me & My Family	Relations	Extended family	*SPACE*
+Me & My Family	Relations	Extended family	si’lu	grandparent
+Me & My Family	Relations	Extended family	sul’si’lu	grandparents
+Me & My Family	Relations	Extended family	*SPACE*
+Me & My Family	Relations	Extended family	’imuth	grandchild
+Me & My Family	Relations	Extended family	’um-’imuth	grandchildren
+Me & My Family	Relations	Extended family	’imuye’	grandchild (address form)
+Me & My Family	Relations	Extended family	’im	grandchild (familiar)
+Me & My Family	Relations	Extended family	*SPACE*
+Me & My Family	Relations	Extended family	sts’a’muqw	great-grandparent; great-grandchild
+Me & My Family	Relations	Extended family	sts’a’lumuqw	great-grandparents; great-grandchilden
+Me & My Family	Relations	Extended family	ts’a’muqw	great-grandparent; great-grandchild (address form)
+Me & My Family	Relations	Extended family	shhwum’nikw	uncle, aunt
+Me & My Family	Relations	Extended family	shhwum’ne’lukw	uncles, aunts
+Me & My Family	Relations	Extended family	nikwiye’	uncle (address form)
+Me & My Family	Relations	Extended family	nikw	uncle (familiar)
+Me & My Family	People	People words	slheni’	woman
+Me & My Family	People	People words	slhunlheni’	women
+Me & My Family	People	People words	slheni’allh	girl
+Me & My Family	People	People words	slhelhni’	girl, little woman
+Me & My Family	People	People words	q’e’muy’alh	young girl
+Me & My Family	People	People words	q’e’mi’	girl (teenage)
+Me & My Family	People	People words	q’e’lumi’	girls (teenage)
+Me & My Family	People	People words	*SPACE*
+Me & My Family	People	People words	swuy’qe’	man, male
+Me & My Family	People	People words	suw’wuy’qe’	men
+Me & My Family	People	People words	swiw’lus	young man, teenage boy
+Me & My Family	People	People words	swuy’qe’allh	boy
+Me & My Family	People	People words	suw’wuy’qe’allh	boys
+Me & My Family	People	People words	swuwi’qe’al’lh	boy: little boy DIM
+Me & My Family	People	People words	swaaw’lus	boys
+Me & My Family	People	People words	*SPACE*
+Me & My Family	People	People words	’ulhwilmuhw	lineage of people
+Me & My Family	People	People words	hwulmuhw	First Nations person
+Me & My Family	People	People words	hwuhwilmuhw	First Nations people
+Me & My Family	People	People words	hwul’ihwul’muhw	First Nations DIM
+Me & My Family	People	People words	ts’lhhwulmuhw	fellow First Nations, tribesmen
+Me & My Family	People	People words	muthe’lumuhw	Westcoast people
+Me & My Family	People	People words	hwunitum’	white man
+Me & My Family	People	People words	hwulunitum’	white people
+Me & My Family	People	People words	q’i’xuye’	black (person)
+Me & My Family	People	People words	*SPACE*
+Me & My Family	People	People words	lhutth’lhut’	comical person
+Me & My Family	People	People words	hwst’uy’qw’	cranky person
+Me & My Family	People	People words	smetth’un’	proud person
+Me & My Family	People	People words	hwsmul’mul’q	absent-minded person
+Me & My Family	People	People words	hwsyun’yun’	laugher, one who laughs easily
+Me & My Family	People	People words	qwulqwul	talkative
+Me & My Family	People	Other people words	xeel’s	changer, creator
+Me & My Family	People	Other people words	mustimuhw	person, people, human
+Me & My Family	People	Other people words	mulstimuhw	people
+Me & My Family	People	Other people words	musteyuhw	people (Snuneymuxw)
+Me & My Family	People	Other people words	tun’aalhtun	heritage
+Me & My Family	People	Other people words	hwswenum	orphan
+Me & My Family	People	Other people words	siyeeye’	little people (they sometimes cause trees to fall near you)
+Me & My Family	People	Other people words	sne	name (noun)
+Me & My Family	People	Other people words	stsi’elh	respected one
+Me & My Family	People	Other people words	s’ul’eluhw	elders
+Me & My Family	People	Other people words	stamush	warrior
+Me & My Family	People	Other people words	hwkwunkwunlhnenum	hunter, good provider
+Me & My Family	People	Other people words	skwish	name (Snueneymuxw)
+Some Language Basics	Useful words (revise label)	Question words	’untsu	be where
+Some Language Basics	Useful words (revise label)	Question words	tu'untsu	xxx
+Some Language Basics	Useful words (revise label)	Question words	stsekwul’	how
+Some Language Basics	Useful words (revise label)	Question words	hwtsel	xxx
+Some Language Basics	Useful words (revise label)	Question words	tstamut	xxx
+Some Language Basics	Useful words (revise label)	Question words	stem	what; something
+Some Language Basics	Useful words (revise label)	Question words	stul’’em’	whatever things
+Some Language Basics	Useful words (revise label)	Question words	tum'tem	when (“time of what”)
+Some Language Basics	Useful words (revise label)	Question words	hw’iint	say what
+Some Language Basics	Useful words (revise label)	Question words	lhwet	who
+Some Language Basics	Useful words (revise label)	Question words	tuwet	whose
+Some Language Basics	Useful words (revise label)	Question words	nutsim’	why
+Some Language Basics	Useful words (revise label)	Question words	kw’in	how much or many
+Some Language Basics	Useful words (revise label)	Question words	skw’ins	what day
+Some Language Basics	Useful words (revise label)	Question words	*SPACE*
+Some Language Basics	Useful words (revise label)	Question words	’u	question particle
+Some Language Basics	Useful words (revise label)	Question words	nii	xxx
+Some Language Basics	Useful words (revise label)	Question words	’ii	xxx
+Some Language Basics	Useful words (revise label)	Location words	*SPACE*
+Some Language Basics	Useful words (revise label)	Location words	sts’utse’	on (be on something)
+Some Language Basics	Useful words (revise label)	Location words	sun’iw’	in (be in something)
+Some Language Basics	Useful words (revise label)	Location words	ts’lh	(prefix) with
+Some Language Basics	Useful words (revise label)	Location words	si’q	underneath
+Some Language Basics	Useful words (revise label)	Location words	stl’pal’we’lh	underneath
+Some Language Basics	Useful words (revise label)	Location words	stslhal’we’lh	above, on top of
+Some Language Basics	Useful words (revise label)	Location words	stutes	near by
+Some Language Basics	Useful words (revise label)	Location words	s’a’kw’us	hanging on
+Some Language Basics	Useful words (revise label)	Location words	st’i’am’	stuck on, attached to
+Some Language Basics	Useful words (revise label)	Meeting and greeting	*SPACE*
+Some Language Basics	Useful words (revise label)	Meeting and greeting	hee’	yes
+Some Language Basics	Useful words (revise label)	Meeting and greeting	’uwu	no
+Some Language Basics	Useful words (revise label)	Meeting and greeting	tth’ihwum	please
+Some Language Basics	Useful words (revise label)	Meeting and greeting	hay	ch q’a’ thank you
+Some Language Basics	Useful words (revise label)	Meeting and greeting	hay	tseep q’a’ thank you (to more than one person)
+Some Language Basics	Useful words (revise label)	Meeting and greeting	namut	kwu you're welcome
+Some Language Basics	Useful words (revise label)	Meeting and greeting	*SPACE*
+Some Language Basics	Useful words (revise label)	Meeting and greeting	kwunutsust	shake someone’s hand, hold someone’s hand
+Some Language Basics	Useful words (revise label)	Meeting and greeting	ts’iitalu	thank you
+Some Language Basics	Useful words (revise label)	Meeting and greeting	ts’uy’ulh	thank, express appreciation
+Some Language Basics	Useful words (revise label)	Meeting and greeting	ts’iit	thank; greet
+Some Language Basics	Useful words (revise label)	Meeting and greeting	*SPACE*
+Some Language Basics	Useful words (revise label)	Meeting and greeting	q’uq’a’tul’	meeting each other
+Some Language Basics	Useful words (revise label)	Meeting and greeting	ts’lhq’uq’a’tul’	people attending a meeting
+Some Language Basics	Action Words	Simple action words	nem’	go
+Some Language Basics	Action Words	Simple action words	m’i	come
+Some Language Basics	Action Words	Simple action words	m’i	‘ewu come here
+Some Language Basics	Action Words	Simple action words	hwts’e’nutsum	sit down
+Some Language Basics	Action Words	Simple action words	’umut	get out of bed (also for some people ‘to sit’)
+Some Language Basics	Action Words	Simple action words	lhxilush	stand up
+Some Language Basics	Action Words	Simple action words	ts’ehwul’	shut up, keep quiet
+Some Language Basics	Action Words	Simple action words	s-ts’ets’uhw	be quiet
+Some Language Basics	Action Words	Simple action words	hwiyuneem’	listen
+Some Language Basics	Action Words	Simple action words	t’ilum	sing
+Some Language Basics	Action Words	Simple action words	qw’uyulush	dance
+Some Language Basics	Action Words	Simple action words	hwyunumus	smile
+Some Language Basics	Action Words	Simple action words	’imush	walk
+Some Language Basics	Action Words	Simple action words	xwchenum	run
+Some Language Basics	Action Words	Simple action words	’umshasum’	take a walk, go for a drive
+Some Language Basics	Action Words	Simple action words	lhuqw’tssum	clap your hands
+Some Language Basics	Action Words	Simple action words	lumhwshenum	stamp your feet
+Some Language Basics	Action Words	Simple action words	’unuhw	stop
+Some Language Basics	Action Words	Simple action words	huye’	leave
+Some Language Basics	Action Words	Simple action words	q’ulum’	camp, stay overnight
+Some Language Basics	Action Words	Simple action words	lhumts’el’s	pick (berries, fruit, vegetables)
+Some Language Basics	Action Words	Simple action words	t’i’wi’ulh	pray
+Some Language Basics	Action Words	Simple action words	xlhas	eat
+Some Language Basics	Action Words	Verbs & progressives	’itut	sleep
+Some Language Basics	Action Words	Verbs & progressives	’i’tut	sleeping
+Some Language Basics	Action Words	Verbs & progressives	’ulhtun	eat
+Some Language Basics	Action Words	Verbs & progressives	’i’lhtun’	eating
+Some Language Basics	Action Words	Verbs & progressives	yaays	work
+Some Language Basics	Action Words	Verbs & progressives	yaay’us	working
+Some Language Basics	Action Words	Verbs & progressives	nem’	tl’ tawun go to town
+Some Language Basics	Action Words	Verbs & progressives	hunum’	tl’ tawun going to town
+Some Language Basics	Action Words	Verbs & progressives	qwal	talk
+Some Language Basics	Action Words	Verbs & progressives	qwaqwul’	talking
+Some Language Basics	Action Words	Verbs & progressives	huw’a’lum’	play
+Some Language Basics	Action Words	Verbs & progressives	hiiw’a’lum’	’u tu kumputu kems playing computer games
+Some Language Basics	Describing words	Size & shape	’uhwin’	little, small
+Some Language Basics	Describing words	Size & shape	’e’uhwin	little, small, tiny
+Some Language Basics	Describing words	Size & shape	*SPACE*
+Some Language Basics	Describing words	Size & shape	thi	big
+Some Language Basics	Describing words	Size & shape	thequn	big container
+Some Language Basics	Describing words	Size & shape	thithushun	big feet
+Some Language Basics	Describing words	Size & shape	’uhwiin’	small
+Some Language Basics	Describing words	Size & shape	*SPACE*
+Some Language Basics	Describing words	Size & shape	tl'eqt	long
+Some Language Basics	Describing words	Size & shape	muqwitth’e’	thick strand (for ex, wool yarn)
+Some Language Basics	Describing words	Colours	p'uq'	white
+Some Language Basics	Describing words	Colours	tsq'ix	black
+Some Language Basics	Describing words	Colours	tskwim	red
+Some Language Basics	Describing words	Colours	tsqway	green, blue-green
+Some Language Basics	Describing words	Colours	ts-hwikw'	gray
+Some Language Basics	Describing words	Colours	tth'atth'uhwum	purple
+Some Language Basics	Describing words	Colours	*SPACE*
+Some Language Basics	Describing words	Colours	qwaqwuyul'	bluish (turning blue)
+Some Language Basics	Describing words	Colours	hwikw'ul	grayish (turning gray, fade to gray)
+Some Language Basics	Describing words	Colours	hwihwukw'ul	graying (turning, fading to gray)
+Some Language Basics	Describing words	Colours	kwimul	redish (become red, turn red)
+Some Language Basics	Describing words	Colours	kwikwumul'	red, becoming red, turning red
+Some Language Basics	Describing words	Colours	*SPACE*
+Some Language Basics	Describing words	Colours	p'q'alus	light
+Some Language Basics	Describing words	Colours	q'xalus	dark
+Some Language Basics	Describing words	Colours	kwimalus	reddish, pink
+Some Language Basics	Describing words	Colours	tskwimulus	brown
+Some Language Basics	Describing words	Colours	kwikwuma'lus	reddish brown
+Some Language Basics	Describing words	Colours	*SPACE*
+Some Language Basics	Describing words	Colours	kwulalu'alus	orange coloured (alder-coloured)
+Some Language Basics	Describing words	Colours	luluts'alus	yellow (Oregon grape-coloured)
+Some Language Basics	Describing words	Colours	saxwulalus	green (grass-coloured)
+Some Language Basics	Describing words	Colours	shkwitth'tsalus	blue (bluejay coloured)
+Some Language Basics	Describing words	Colours	tumlhalus	brown (ochre-coloured)
+Some Language Basics	Describing words	Colours	koulalus	gold (gold-coloured)
+Some Language Basics	Describing words	Colours	qel'qalus	pink (wild rose-coloured)
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	’uy’	good, fine, ok
+Some Language Basics	Describing words	Other adjectives	qul	bad
+Some Language Basics	Describing words	Other adjectives	sthuthi’	okay, right, correct, fine
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	’iyus	happy
+Some Language Basics	Describing words	Other adjectives	qiqul’us	sad
+Some Language Basics	Describing words	Other adjectives	si’si’	afraid
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	’uy’uy’mut	pretty, beautiful (thing)
+Some Language Basics	Describing words	Other adjectives	’iyas	pretty, cute
+Some Language Basics	Describing words	Other adjectives	’i’iyas	cute DIM
+Some Language Basics	Describing words	Other adjectives	quliima’	dirty, ugly
+Some Language Basics	Describing words	Other adjectives	xxx	clean
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	xew’s	new
+Some Language Basics	Describing words	Other adjectives	t’at	old (of the olden days)
+Some Language Basics	Describing words	Other adjectives	s’eluhw	old; an elder
+Some Language Basics	Describing words	Other adjectives	si’em’	respected, well-thought of
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	kw’am’kw’um’	strong 
+Some Language Basics	Describing words	Other adjectives	xxx	weak
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	hwutus	heavy
+Some Language Basics	Describing words	Other adjectives	xxx	light
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	tl’up	deep
+Some Language Basics	Describing words	Other adjectives	xxx	shallow
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	tsakw	far, distant
+Some Language Basics	Describing words	Other adjectives	xxx	close
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	’ayum	slow
+Some Language Basics	Describing words	Other adjectives	xwum’	fast
+Some Language Basics	Describing words	Other adjectives	xwumshun	fast walker, walk fastH1	H2  - PURPLE	H3 - BLUE	word	eng
+Me & My Family	Pronouns	Independent pronouns	’een’thu	I
+Me & My Family	Pronouns	Independent pronouns	nuwu	you (referring to one person)
+Me & My Family	Pronouns	Independent pronouns	lhnimulh	we
+Me & My Family	Pronouns	Independent pronouns	lhwulup	you (referring to more than one person)
+Me & My Family	Pronouns	Independent pronouns	nilh	he, she
+Me & My Family	Pronouns	Independent pronouns	ne’ullh	they
+Me & My Family	Pronouns	Subject pronouns 	tsun	I
+Me & My Family	Pronouns	Subject pronouns 	ch	you
+Me & My Family	Pronouns	Subject pronouns 	tst	we
+Me & My Family	Pronouns	Subject pronouns 	tseep	you (you all)
+Me & My Family	Pronouns	Subject pronouns 	us	he, she, they
+Me & My Family	Body & Feelings	Head & face	sxuy’us	head
+Me & My Family	Body & Feelings	Head & face	s’athus	face
+Me & My Family	Body & Feelings	Head & face	sqw’umus	forehead
+Me & My Family	Body & Feelings	Head & face	thamun	eyebrow
+Me & My Family	Body & Feelings	Head & face	qulum'	eye
+Me & My Family	Body & Feelings	Head & face	shp'q'eelh	white of eye
+Me & My Family	Body & Feelings	Head & face	shq'xeelh	pupil (black of the eye)
+Me & My Family	Body & Feelings	Head & face	muqsun	nose
+Me & My Family	Body & Feelings	Head & face	*SPACE*
+Me & My Family	Body & Feelings	Head & face	qw'oon'	ear
+Me & My Family	Body & Feelings	Head & face	qw'un'qw'oon'	ears
+Me & My Family	Body & Feelings	Head & face	shtl'pun'u	earlobe
+Me & My Family	Body & Feelings	Head & face	*SPACE*
+Me & My Family	Body & Feelings	Head & face	kwuy'hwulhnulh	neck (front part)
+Me & My Family	Body & Feelings	Head & face	tupsum	neck (back of neck)
+Me & My Family	Body & Feelings	Head & face	shhw'uthqun	throat
+Me & My Family	Body & Feelings	Head & face	xwamlhnulh	throat, windpipe, trachea
+Me & My Family	Body & Feelings	Head & face	*SPACE*
+Me & My Family	Body & Feelings	Head & face	thathun	mouth
+Me & My Family	Body & Feelings	Head & face	slhqwulnus	gums
+Me & My Family	Body & Feelings	Head & face	tuhwthulh	tongue
+Me & My Family	Body & Feelings	Head & face	yunus	tooth
+Me & My Family	Body & Feelings	Head & face	huyinus	teeth
+Me & My Family	Body & Feelings	Head & face	stslhaythun	lip: upper lip
+Me & My Family	Body & Feelings	Head & face	stl'paythun	lip: lower lip
+Me & My Family	Body & Feelings	Head & face	shhw'ii'nu	cheek of animal/human
+Me & My Family	Body & Feelings	Head & face	shhw'un'ii'nu	cheeks
+Me & My Family	Body & Feelings	Head & face	*SPACE*
+Me & My Family	Body & Feelings	Head & face	ts'um'shaythun	jaw
+Me & My Family	Body & Feelings	Head & face	sqwini'uthun	beard
+Me & My Family	Body & Feelings	Head & face	*SPACE*
+Me & My Family	Body & Feelings	Head & face	shkw'i'tth'ul'uqw	top of the head
+Me & My Family	Body & Feelings	Head & face	she'itun	hair
+Me & My Family	Body & Feelings	Head & face	st'qw'i'al's	bangs (hair bangs)
+Me & My Family	Body & Feelings	Head & face	tskwi'ma'qw	red haired (redheaded)
+Me & My Family	Body & Feelings	Arms & legs	*SPACE*
+Me & My Family	Body & Feelings	Arms & legs	snuxtsus	finger
+Me & My Family	Body & Feelings	Arms & legs	sun'tl'a'luw'tsus	thumb
+Me & My Family	Body & Feelings	Arms & legs	tselush	hand
+Me & My Family	Body & Feelings	Arms & legs	tsultselush	hands
+Me & My Family	Body & Feelings	Arms & legs	su'asuqwta'luw'tsus	finger: little finger
+Me & My Family	Body & Feelings	Arms & legs	qw'xwa'luw'tsus	fingernail
+Me & My Family	Body & Feelings	Arms & legs	stth'ukwtsis	left hand
+Me & My Family	Body & Feelings	Arms & legs	s'i'a'lum'tsus	right hand
+Me & My Family	Body & Feelings	Arms & legs	shxathus	palm of hand; sole of foot
+Me & My Family	Body & Feelings	Arms & legs	*SPACE*
+Me & My Family	Body & Feelings	Arms & legs	t'eluw'	arm; wing
+Me & My Family	Body & Feelings	Arms & legs	t'ult'eluw'	arms
+Me & My Family	Body & Feelings	Arms & legs	qwum'xwtsus	wrist
+Me & My Family	Body & Feelings	Arms & legs	kwum'tth'ulexun'	elbow
+Me & My Family	Body & Feelings	Arms & legs	sqwuntsus	hair on arm
+Me & My Family	Body & Feelings	Arms & legs	stth'kwu'iw's	left side, arm
+Me & My Family	Body & Feelings	Arms & legs	s'i'a'lum'iw's	right side, right arm
+Me & My Family	Body & Feelings	Arms & legs	*SPACE*
+Me & My Family	Body & Feelings	Arms & legs	shqp'althutun	knee-cap
+Me & My Family	Body & Feelings	Arms & legs	sq'ewum	knee
+Me & My Family	Body & Feelings	Arms & legs	sq'uw'q'ewum	knees
+Me & My Family	Body & Feelings	Arms & legs	q'etl'ul'shun	calf of leg
+Me & My Family	Body & Feelings	Arms & legs	qwum'xwshun	ankle
+Me & My Family	Body & Feelings	Arms & legs	stth'ukwshin'	left foot
+Me & My Family	Body & Feelings	Arms & legs	s'i'a'luw'shun	right foot
+Me & My Family	Body & Feelings	Arms & legs	sxun'u	foot, leg
+Me & My Family	Body & Feelings	Arms & legs	sxuxi'nu	legs, feet
+Me & My Family	Body & Feelings	Arms & legs	snuhwulhshun	foot
+Me & My Family	Body & Feelings	Arms & legs	snuxshun	toe
+Me & My Family	Body & Feelings	Arms & legs	qw'xwa'luw'shun	toenail
+Me & My Family	Body & Feelings	Arms & legs	su'asuqwta'luw'shun	toe: little toe
+Me & My Family	Body & Feelings	Arms & legs	sun'tl'a'luw'shun	toe: big toe
+Me & My Family	Body & Feelings	Body core	smustimuhw	body
+Me & My Family	Body & Feelings	Body core	kw'uluw'	skin (hide, fur, pelt, bark)
+Me & My Family	Body & Feelings	Body core	shtth'utth'a'	skeleton
+Me & My Family	Body & Feelings	Body core	ts'xemun	chest
+Me & My Family	Body & Feelings	Body core	slhuq'we'lh	back
+Me & My Family	Body & Feelings	Body core	qwuqw'ten	shoulder
+Me & My Family	Body & Feelings	Body core	s’inus	breastbone, chest
+Me & My Family	Body & Feelings	Body core	luwux	ribs (and on canoes and boats)
+Me & My Family	Body & Feelings	Body core	qtewustun	waist, waistband or waistline
+Me & My Family	Body & Feelings	Body core	slhulnuts	bottom
+Me & My Family	Body & Feelings	Internal organs	Internal	organs
+Me & My Family	Body & Feelings	Internal organs	tth’ele’	heart
+Me & My Family	Body & Feelings	Internal organs	thethi'un	blood
+Me & My Family	Body & Feelings	Internal organs	slhkw'emuws	pulse
+Me & My Family	Body & Feelings	Internal organs	thunthun	kidney
+Me & My Family	Body & Feelings	Internal organs	t'eqe'	liver (human)
+Me & My Family	Body & Feelings	Internal organs	kw’ul’u	stomach (abdomen)
+Me & My Family	Body & Feelings	Internal organs	xxx	bladder
+Me & My Family	Body & Feelings	Internal organs	suxwa’	pee
+Me & My Family	Body & Feelings	Internal organs	xxx	lung
+Me & My Family	Body & Feelings	Internal organs	slhekw'um	breath
+Me & My Family	Body & Feelings	Internal organs	q'uq'i'	intestines
+Me & My Family	Body & Feelings	Internal organs	*SPACE*
+Me & My Family	Body & Feelings	Feelings & Senses	shqwaluwun	feelings, thoughts
+Me & My Family	Body & Feelings	Feelings & Senses	xtsuthut	think
+Me & My Family	Body & Feelings	Feelings & Senses	sht’eewun’	think, believe, wonder
+Me & My Family	Body & Feelings	Feelings & Senses	*SPACE*
+Me & My Family	Body & Feelings	Feelings & Senses	si’si’	afraid
+Me & My Family	Body & Feelings	Feelings & Senses	qiqul’us	sad
+Me & My Family	Body & Feelings	Feelings & Senses	sqiqul’us	sad
+Me & My Family	Body & Feelings	Feelings & Senses	tuqnuhw	feel bad about
+Me & My Family	Body & Feelings	Feelings & Senses	suyum	hurt, get pains
+Me & My Family	Body & Feelings	Feelings & Senses	sqwsun’e’	anchored; angry, bad mood
+Me & My Family	Body & Feelings	Feelings & Senses	s’ey’qsta’mu	angry at you (and disagree with you)
+Me & My Family	Body & Feelings	Feelings & Senses	qel’nal’hw	angry with us
+Me & My Family	Body & Feelings	Feelings & Senses	qel’nuhw	mad at (being mad at)
+Me & My Family	Body & Feelings	Feelings & Senses	qulnuhw	mad at (get mad at)
+Me & My Family	Body & Feelings	Feelings & Senses	qulstuhw	dislike
+Me & My Family	Body & Feelings	Feelings & Senses	him’tth’en’t	disbelieve him
+Me & My Family	Body & Feelings	Feelings & Senses	hwquluwun	mean
+Me & My Family	Body & Feelings	Feelings & Senses	hwnats’us	look or act innocent when guilty
+Me & My Family	Body & Feelings	Feelings & Senses	sxixutth’	insulted, hurt by harsh words
+Me & My Family	Body & Feelings	Feelings & Senses	xitth’ul	insulted: become insulted, hurt by harsh words
+Me & My Family	Body & Feelings	Feelings & Senses	xixutth’ul’	insulted: feeling insulted, feeling hurt by harsh words
+Me & My Family	Body & Feelings	Feelings & Senses	mel’q	forget
+Me & My Family	Body & Feelings	Feelings & Senses	mel’qt	forget it
+Me & My Family	Body & Feelings	Feelings & Senses	me’mul’q	forgetting
+Me & My Family	Body & Feelings	Feelings & Senses	smel’q	forgotten
+Me & My Family	Body & Feelings	Feelings & Senses	skwati	crazy
+Me & My Family	Body & Feelings	Feelings & Senses	ts’uq’	astonished
+Me & My Family	Body & Feelings	Feelings & Senses	tsatuxwul	bewildered: to become stunned or bewildered
+Me & My Family	Body & Feelings	Feelings & Senses	stl’i’	want, desire, like
+Me & My Family	Body & Feelings	Feelings & Senses	wuwi’stun’uq	jealous: being jealous
+Me & My Family	Body & Feelings	Feelings & Senses	tl’i’tul	like each other
+Me & My Family	Body & Feelings	Feelings & Senses	’uy’stuhw	like it, him, or her
+Me & My Family	Body & Feelings	Feelings & Senses	tl’i’t	like, not want to part with something one treasures
+Me & My Family	Body & Feelings	Feelings & Senses	ts’elhum’	hear
+Me & My Family	Body & Feelings	Feelings & Senses	ts’elhum’ut	hear
+Me & My Family	Body & Feelings	Feelings & Senses	huqwnuhw	smell it
+Me & My Family	Body & Feelings	Feelings & Senses	haqwut	smell it, sniff it
+Me & My Family	Body & Feelings	Feelings & Senses	sal’lus	lightheaded; slightly inebriated, feeling good
+Me & My Family	Body & Feelings	Feelings & Senses	squlquluthun	dream (noun)
+Me & My Family	Body & Feelings	Feelings & Senses	xuyxayukw’ustum	nightmare: have a nightmare
+Me & My Family	Body & Feelings	Feelings & Senses	xuyxayukw’usthelum	nightmare: I had a nightmare
+Me & My Family	Relations	Parents	shhwuw’weli	parents, relatives
+Me & My Family	Relations	Parents	shhwuw’we	parent
+Me & My Family	Relations	Parents	men	father
+Me & My Family	Relations	Parents	me’	dad
+Me & My Family	Relations	Parents	ten	mother
+Me & My Family	Relations	Parents	te’	mom
+Me & My Family	Relations	Parents	tsi’tsut	parent (when speaking of someone else’s parent)
+Me & My Family	Relations	Parents	tsuli’tsut	parents Note
+Me & My Family	Relations	Parents	tslile’em	stepparent
+Me & My Family	Relations	Siblings & children	qw’uqw’i’tul	siblings
+Me & My Family	Relations	Siblings & children	shhw’aqw’a’	brother, sister, cousin
+Me & My Family	Relations	Siblings & children	shhw’a’luqw’a’	brothers, sisters, cousins
+Me & My Family	Relations	Siblings & children	sts’iyayu	twins
+Me & My Family	Relations	Siblings & children	shuyulh	sibling: older brother, sister, cousin
+Me & My Family	Relations	Siblings & children	shushiyulh	older brothers, sisters, cousins
+Me & My Family	Relations	Siblings & children	sqe’uq	sibling: younger sister, brother, cousin
+Me & My Family	Relations	Siblings & children	snuts’uwyulh	sibling: half brother or sister
+Me & My Family	Relations	Children 	stl’i’tl’qulh	child
+Me & My Family	Relations	Children 	stl’ul’iqulh	children
+Me & My Family	Relations	Children 	tslhmun’um	stepchild
+Me & My Family	Relations	Children 	mun’u	offspring: son, daughter
+Me & My Family	Relations	Children 	mim’ne’	offspring: son, daughter DIM
+Me & My Family	Relations	Children 	me’mun’u	offspring: sons, daughters
+Me & My Family	Relations	Children 	*SPACE*
+Me & My Family	Relations	Children 	stiwun	nephew, niece
+Me & My Family	Relations	Children 	tiwun	nephew (address form)
+Me & My Family	Relations	Children 	stutiwun	nieces, nephews
+Me & My Family	Relations	Marriage, partners	*SPACE*
+Me & My Family	Relations	Marriage, partners	sta’lus	spouse (husband, wife)
+Me & My Family	Relations	Marriage, partners	tsehw	spouse
+Me & My Family	Relations	Marriage, partners	sq’a’	companion, mate, spouse
+Me & My Family	Relations	Marriage, partners	naw’	term of endearment addressed to a spouse
+Me & My Family	Relations	Marriage, partners	mulyitul	marry
+Me & My Family	Relations	Marriage, partners	sme’luyi	married
+Me & My Family	Relations	Marriage, partners	tsta’lus	marry: get a wife or husband
+Me & My Family	Relations	Marriage, partners	sye’tun	widow
+Me & My Family	Relations	Marriage, partners	kwukwa’tul	divorced, apart, separated
+Me & My Family	Relations	Extended family	*SPACE*
+Me & My Family	Relations	Extended family	shtun’ni’iws	ancestor
+Me & My Family	Relations	Extended family	sye’ye’	friend, relative
+Me & My Family	Relations	Extended family	siiye’yu	friends, relatives
+Me & My Family	Relations	Extended family	*SPACE*
+Me & My Family	Relations	Extended family	si’lu	grandparent
+Me & My Family	Relations	Extended family	sul’si’lu	grandparents
+Me & My Family	Relations	Extended family	*SPACE*
+Me & My Family	Relations	Extended family	’imuth	grandchild
+Me & My Family	Relations	Extended family	’um-’imuth	grandchildren
+Me & My Family	Relations	Extended family	’imuye’	grandchild (address form)
+Me & My Family	Relations	Extended family	’im	grandchild (familiar)
+Me & My Family	Relations	Extended family	*SPACE*
+Me & My Family	Relations	Extended family	sts’a’muqw	great-grandparent; great-grandchild
+Me & My Family	Relations	Extended family	sts’a’lumuqw	great-grandparents; great-grandchilden
+Me & My Family	Relations	Extended family	ts’a’muqw	great-grandparent; great-grandchild (address form)
+Me & My Family	Relations	Extended family	shhwum’nikw	uncle, aunt
+Me & My Family	Relations	Extended family	shhwum’ne’lukw	uncles, aunts
+Me & My Family	Relations	Extended family	nikwiye’	uncle (address form)
+Me & My Family	Relations	Extended family	nikw	uncle (familiar)
+Me & My Family	People	People words	slheni’	woman
+Me & My Family	People	People words	slhunlheni’	women
+Me & My Family	People	People words	slheni’allh	girl
+Me & My Family	People	People words	slhelhni’	girl, little woman
+Me & My Family	People	People words	q’e’muy’alh	young girl
+Me & My Family	People	People words	q’e’mi’	girl (teenage)
+Me & My Family	People	People words	q’e’lumi’	girls (teenage)
+Me & My Family	People	People words	*SPACE*
+Me & My Family	People	People words	swuy’qe’	man, male
+Me & My Family	People	People words	suw’wuy’qe’	men
+Me & My Family	People	People words	swiw’lus	young man, teenage boy
+Me & My Family	People	People words	swuy’qe’allh	boy
+Me & My Family	People	People words	suw’wuy’qe’allh	boys
+Me & My Family	People	People words	swuwi’qe’al’lh	boy: little boy DIM
+Me & My Family	People	People words	swaaw’lus	boys
+Me & My Family	People	People words	*SPACE*
+Me & My Family	People	People words	’ulhwilmuhw	lineage of people
+Me & My Family	People	People words	hwulmuhw	First Nations person
+Me & My Family	People	People words	hwuhwilmuhw	First Nations people
+Me & My Family	People	People words	hwul’ihwul’muhw	First Nations DIM
+Me & My Family	People	People words	ts’lhhwulmuhw	fellow First Nations, tribesmen
+Me & My Family	People	People words	muthe’lumuhw	Westcoast people
+Me & My Family	People	People words	hwunitum’	white man
+Me & My Family	People	People words	hwulunitum’	white people
+Me & My Family	People	People words	q’i’xuye’	black (person)
+Me & My Family	People	People words	*SPACE*
+Me & My Family	People	People words	lhutth’lhut’	comical person
+Me & My Family	People	People words	hwst’uy’qw’	cranky person
+Me & My Family	People	People words	smetth’un’	proud person
+Me & My Family	People	People words	hwsmul’mul’q	absent-minded person
+Me & My Family	People	People words	hwsyun’yun’	laugher, one who laughs easily
+Me & My Family	People	People words	qwulqwul	talkative
+Me & My Family	People	Other people words	xeel’s	changer, creator
+Me & My Family	People	Other people words	mustimuhw	person, people, human
+Me & My Family	People	Other people words	mulstimuhw	people
+Me & My Family	People	Other people words	musteyuhw	people (Snuneymuxw)
+Me & My Family	People	Other people words	tun’aalhtun	heritage
+Me & My Family	People	Other people words	hwswenum	orphan
+Me & My Family	People	Other people words	siyeeye’	little people (they sometimes cause trees to fall near you)
+Me & My Family	People	Other people words	sne	name (noun)
+Me & My Family	People	Other people words	stsi’elh	respected one
+Me & My Family	People	Other people words	s’ul’eluhw	elders
+Me & My Family	People	Other people words	stamush	warrior
+Me & My Family	People	Other people words	hwkwunkwunlhnenum	hunter, good provider
+Me & My Family	People	Other people words	skwish	name (Snueneymuxw)
+Some Language Basics	Useful words (revise label)	Question words	’untsu	be where
+Some Language Basics	Useful words (revise label)	Question words	tu'untsu	xxx
+Some Language Basics	Useful words (revise label)	Question words	stsekwul’	how
+Some Language Basics	Useful words (revise label)	Question words	hwtsel	xxx
+Some Language Basics	Useful words (revise label)	Question words	tstamut	xxx
+Some Language Basics	Useful words (revise label)	Question words	stem	what; something
+Some Language Basics	Useful words (revise label)	Question words	stul’’em’	whatever things
+Some Language Basics	Useful words (revise label)	Question words	tum'tem	when (“time of what”)
+Some Language Basics	Useful words (revise label)	Question words	hw’iint	say what
+Some Language Basics	Useful words (revise label)	Question words	lhwet	who
+Some Language Basics	Useful words (revise label)	Question words	tuwet	whose
+Some Language Basics	Useful words (revise label)	Question words	nutsim’	why
+Some Language Basics	Useful words (revise label)	Question words	kw’in	how much or many
+Some Language Basics	Useful words (revise label)	Question words	skw’ins	what day
+Some Language Basics	Useful words (revise label)	Question words	*SPACE*
+Some Language Basics	Useful words (revise label)	Question words	’u	question particle
+Some Language Basics	Useful words (revise label)	Question words	nii	xxx
+Some Language Basics	Useful words (revise label)	Question words	’ii	xxx
+Some Language Basics	Useful words (revise label)	Location words	*SPACE*
+Some Language Basics	Useful words (revise label)	Location words	sts’utse’	on (be on something)
+Some Language Basics	Useful words (revise label)	Location words	sun’iw’	in (be in something)
+Some Language Basics	Useful words (revise label)	Location words	ts’lh	(prefix) with
+Some Language Basics	Useful words (revise label)	Location words	si’q	underneath
+Some Language Basics	Useful words (revise label)	Location words	stl’pal’we’lh	underneath
+Some Language Basics	Useful words (revise label)	Location words	stslhal’we’lh	above, on top of
+Some Language Basics	Useful words (revise label)	Location words	stutes	near by
+Some Language Basics	Useful words (revise label)	Location words	s’a’kw’us	hanging on
+Some Language Basics	Useful words (revise label)	Location words	st’i’am’	stuck on, attached to
+Some Language Basics	Useful words (revise label)	Meeting and greeting	*SPACE*
+Some Language Basics	Useful words (revise label)	Meeting and greeting	hee’	yes
+Some Language Basics	Useful words (revise label)	Meeting and greeting	’uwu	no
+Some Language Basics	Useful words (revise label)	Meeting and greeting	tth’ihwum	please
+Some Language Basics	Useful words (revise label)	Meeting and greeting	hay	ch q’a’ thank you
+Some Language Basics	Useful words (revise label)	Meeting and greeting	hay	tseep q’a’ thank you (to more than one person)
+Some Language Basics	Useful words (revise label)	Meeting and greeting	namut	kwu you're welcome
+Some Language Basics	Useful words (revise label)	Meeting and greeting	*SPACE*
+Some Language Basics	Useful words (revise label)	Meeting and greeting	kwunutsust	shake someone’s hand, hold someone’s hand
+Some Language Basics	Useful words (revise label)	Meeting and greeting	ts’iitalu	thank you
+Some Language Basics	Useful words (revise label)	Meeting and greeting	ts’uy’ulh	thank, express appreciation
+Some Language Basics	Useful words (revise label)	Meeting and greeting	ts’iit	thank; greet
+Some Language Basics	Useful words (revise label)	Meeting and greeting	*SPACE*
+Some Language Basics	Useful words (revise label)	Meeting and greeting	q’uq’a’tul’	meeting each other
+Some Language Basics	Useful words (revise label)	Meeting and greeting	ts’lhq’uq’a’tul’	people attending a meeting
+Some Language Basics	Action Words	Simple action words	nem’	go
+Some Language Basics	Action Words	Simple action words	m’i	come
+Some Language Basics	Action Words	Simple action words	m’i	‘ewu come here
+Some Language Basics	Action Words	Simple action words	hwts’e’nutsum	sit down
+Some Language Basics	Action Words	Simple action words	’umut	get out of bed (also for some people ‘to sit’)
+Some Language Basics	Action Words	Simple action words	lhxilush	stand up
+Some Language Basics	Action Words	Simple action words	ts’ehwul’	shut up, keep quiet
+Some Language Basics	Action Words	Simple action words	s-ts’ets’uhw	be quiet
+Some Language Basics	Action Words	Simple action words	hwiyuneem’	listen
+Some Language Basics	Action Words	Simple action words	t’ilum	sing
+Some Language Basics	Action Words	Simple action words	qw’uyulush	dance
+Some Language Basics	Action Words	Simple action words	hwyunumus	smile
+Some Language Basics	Action Words	Simple action words	’imush	walk
+Some Language Basics	Action Words	Simple action words	xwchenum	run
+Some Language Basics	Action Words	Simple action words	’umshasum’	take a walk, go for a drive
+Some Language Basics	Action Words	Simple action words	lhuqw’tssum	clap your hands
+Some Language Basics	Action Words	Simple action words	lumhwshenum	stamp your feet
+Some Language Basics	Action Words	Simple action words	’unuhw	stop
+Some Language Basics	Action Words	Simple action words	huye’	leave
+Some Language Basics	Action Words	Simple action words	q’ulum’	camp, stay overnight
+Some Language Basics	Action Words	Simple action words	lhumts’el’s	pick (berries, fruit, vegetables)
+Some Language Basics	Action Words	Simple action words	t’i’wi’ulh	pray
+Some Language Basics	Action Words	Simple action words	xlhas	eat
+Some Language Basics	Action Words	Verbs & progressives	’itut	sleep
+Some Language Basics	Action Words	Verbs & progressives	’i’tut	sleeping
+Some Language Basics	Action Words	Verbs & progressives	’ulhtun	eat
+Some Language Basics	Action Words	Verbs & progressives	’i’lhtun’	eating
+Some Language Basics	Action Words	Verbs & progressives	yaays	work
+Some Language Basics	Action Words	Verbs & progressives	yaay’us	working
+Some Language Basics	Action Words	Verbs & progressives	nem’	tl’ tawun go to town
+Some Language Basics	Action Words	Verbs & progressives	hunum’	tl’ tawun going to town
+Some Language Basics	Action Words	Verbs & progressives	qwal	talk
+Some Language Basics	Action Words	Verbs & progressives	qwaqwul’	talking
+Some Language Basics	Action Words	Verbs & progressives	huw’a’lum’	play
+Some Language Basics	Action Words	Verbs & progressives	hiiw’a’lum’	’u tu kumputu kems playing computer games
+Some Language Basics	Describing words	Size & shape	’uhwin’	little, small
+Some Language Basics	Describing words	Size & shape	’e’uhwin	little, small, tiny
+Some Language Basics	Describing words	Size & shape	*SPACE*
+Some Language Basics	Describing words	Size & shape	thi	big
+Some Language Basics	Describing words	Size & shape	thequn	big container
+Some Language Basics	Describing words	Size & shape	thithushun	big feet
+Some Language Basics	Describing words	Size & shape	’uhwiin’	small
+Some Language Basics	Describing words	Size & shape	*SPACE*
+Some Language Basics	Describing words	Size & shape	tl'eqt	long
+Some Language Basics	Describing words	Size & shape	muqwitth’e’	thick strand (for ex, wool yarn)
+Some Language Basics	Describing words	Colours	p'uq'	white
+Some Language Basics	Describing words	Colours	tsq'ix	black
+Some Language Basics	Describing words	Colours	tskwim	red
+Some Language Basics	Describing words	Colours	tsqway	green, blue-green
+Some Language Basics	Describing words	Colours	ts-hwikw'	gray
+Some Language Basics	Describing words	Colours	tth'atth'uhwum	purple
+Some Language Basics	Describing words	Colours	*SPACE*
+Some Language Basics	Describing words	Colours	qwaqwuyul'	bluish (turning blue)
+Some Language Basics	Describing words	Colours	hwikw'ul	grayish (turning gray, fade to gray)
+Some Language Basics	Describing words	Colours	hwihwukw'ul	graying (turning, fading to gray)
+Some Language Basics	Describing words	Colours	kwimul	redish (become red, turn red)
+Some Language Basics	Describing words	Colours	kwikwumul'	red, becoming red, turning red
+Some Language Basics	Describing words	Colours	*SPACE*
+Some Language Basics	Describing words	Colours	p'q'alus	light
+Some Language Basics	Describing words	Colours	q'xalus	dark
+Some Language Basics	Describing words	Colours	kwimalus	reddish, pink
+Some Language Basics	Describing words	Colours	tskwimulus	brown
+Some Language Basics	Describing words	Colours	kwikwuma'lus	reddish brown
+Some Language Basics	Describing words	Colours	*SPACE*
+Some Language Basics	Describing words	Colours	kwulalu'alus	orange coloured (alder-coloured)
+Some Language Basics	Describing words	Colours	luluts'alus	yellow (Oregon grape-coloured)
+Some Language Basics	Describing words	Colours	saxwulalus	green (grass-coloured)
+Some Language Basics	Describing words	Colours	shkwitth'tsalus	blue (bluejay coloured)
+Some Language Basics	Describing words	Colours	tumlhalus	brown (ochre-coloured)
+Some Language Basics	Describing words	Colours	koulalus	gold (gold-coloured)
+Some Language Basics	Describing words	Colours	qel'qalus	pink (wild rose-coloured)
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	’uy’	good, fine, ok
+Some Language Basics	Describing words	Other adjectives	qul	bad
+Some Language Basics	Describing words	Other adjectives	sthuthi’	okay, right, correct, fine
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	’iyus	happy
+Some Language Basics	Describing words	Other adjectives	qiqul’us	sad
+Some Language Basics	Describing words	Other adjectives	si’si’	afraid
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	’uy’uy’mut	pretty, beautiful (thing)
+Some Language Basics	Describing words	Other adjectives	’iyas	pretty, cute
+Some Language Basics	Describing words	Other adjectives	’i’iyas	cute DIM
+Some Language Basics	Describing words	Other adjectives	quliima’	dirty, ugly
+Some Language Basics	Describing words	Other adjectives	xxx	clean
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	xew’s	new
+Some Language Basics	Describing words	Other adjectives	t’at	old (of the olden days)
+Some Language Basics	Describing words	Other adjectives	s’eluhw	old; an elder
+Some Language Basics	Describing words	Other adjectives	si’em’	respected, well-thought of
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	kw’am’kw’um’	strong 
+Some Language Basics	Describing words	Other adjectives	xxx	weak
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	hwutus	heavy
+Some Language Basics	Describing words	Other adjectives	xxx	light
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	tl’up	deep
+Some Language Basics	Describing words	Other adjectives	xxx	shallow
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	tsakw	far, distant
+Some Language Basics	Describing words	Other adjectives	xxx	close
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	’ayum	slow
+Some Language Basics	Describing words	Other adjectives	xwum’	fast
+Some Language Basics	Describing words	Other adjectives	xwumshun	fast walker, walk fast

@@ -1,0 +1,55 @@
+TOP	SUBTOP	Headword	Definition	SOUND
+TIME	"Weeks, Months, and Seasons"	suxulhnet 	"Sunday, week"	06kuktala.wav	Larafriends.jpg
+TIME	"Weeks, Months, and Seasons"	sil'wulhnet 	Monday	
+TIME	"Weeks, Months, and Seasons"	sthumunts 	Tuesday (second day of the week)	
+TIME	"Weeks, Months, and Seasons"	slhihws 	Wednesday; third	
+TIME	"Weeks, Months, and Seasons"	sxu'athuns 	Thursday	
+TIME	"Weeks, Months, and Seasons"	slhq'etsuss 	Friday	
+TIME	"Weeks, Months, and Seasons"	t'aqw'tum' 	Saturday	
+TIME	"Weeks, Months, and Seasons"	tth'ul'xwumutsun 	January	
+TIME	"Weeks, Months, and Seasons"	pune'q 	January; geoduck (gooeyduck) clam (gathered in January)	
+TIME	"Weeks, Months, and Seasons"	mim'ne' 	February	
+TIME	"Weeks, Months, and Seasons"	wulhxus 	March (when frogs start croaking)	
+TIME	"Weeks, Months, and Seasons"	liimus 	April	
+TIME	"Weeks, Months, and Seasons"	punhwemun 	May	
+TIME	"Weeks, Months, and Seasons"	qw'i'lus 	June	
+TIME	"Weeks, Months, and Seasons"	tum'qw'i'lus 	July	
+TIME	"Weeks, Months, and Seasons"	tum'qwe'unhw 	August (mosquito month)	
+TIME	"Weeks, Months, and Seasons"	p'uq'ulenhw 	September	
+TIME	"Weeks, Months, and Seasons"	hwisulenhw 	October	
+TIME	"Weeks, Months, and Seasons"	lu'ultsuptun 	"month for gathering wood, November"	
+TIME	"Weeks, Months, and Seasons"	suyum 	December	
+TIME	"Weeks, Months, and Seasons"	yuqw'iqw'ul'us 	spring (springtime)	
+TIME	"Weeks, Months, and Seasons"	tum'qw'i'lus 	spring (time of ripening)	
+TIME	"Weeks, Months, and Seasons"	tun'peenhw 	season when camas blooms	
+TIME	"Weeks, Months, and Seasons"	tum'kw'e'lus 	summer	
+TIME	"Weeks, Months, and Seasons"	qw'i'lus 	summer	
+TIME	"Weeks, Months, and Seasons"	qw'i'qw'ul'as 	summer: during the summer	
+TIME	"Weeks, Months, and Seasons"	yuxay'tl'thut 	"fall; autumn: cold (getting cold, of weather)"	
+TIME	"Weeks, Months, and Seasons"	tun'sliim 	time in the fall when wild geese move in formation	
+TIME	"Weeks, Months, and Seasons"	tum'xuytl' 	winter	
+TIME	"Weeks, Months, and Seasons"	sil'anum 	year	
+TIME	"Weeks, Months, and Seasons"	tun'tqey'un 	month you set weirs	
+TIME	Other	skweyul 	day	
+TIME	Other	tl'umqun 	whole day	
+TIME	Other	netulh 	morning	
+TIME	Other	tth'ekw'ul 	dawn; daybreak	
+TIME	Other	yutth'etth'ukw'ul' 	dawn; getting daylight	
+TIME	Other	yuhwkwekwiyul' 	"daybreak; beginning of daybreak, dawn"	
+TIME	Other	q'ilt 	morning (mid-morning)	
+TIME	Other	yuq'iq'ul't 	midmorning: getting toward midmorning	
+TIME	Other	yuhwun'nut 	evening: dusk	
+TIME	Other	hwune'unt 	"evening, become evening"	
+TIME	Other	snet 	night (noun)	
+TIME	Other	net 	night; be night	
+TIME	Other	kweyel 	"tomorrow, daylight"	
+TIME	Other	tsul'equlh 	yesterday	
+TIME	Other	lhuw'ulhne' 	day before yesterday	
+TIME	Other	hith 	late	
+TIME	Other	hith 	long time	
+TIME	Other	hithulh 	long time PAST	
+TIME	Other	huy 	when; whenever	
+TIME	Other	tahw 	"right now, later, then, there"	
+TIME	Other	ts'uhwle' 	sometimes	
+TIME	Other	qul'et 	again; next (time)	
+TIME	Other	shkwan 	birthday	

@@ -1,0 +1,28 @@
+TOP	SUBTOP	Headword	Definition	SOUND
+TIME	"Weeks, Months, and Seasons"	suxulhnet 	"Sunday, week"	SUNDAY2.wav
+TIME	"Weeks, Months, and Seasons"	sil'wulhnet 	Monday	MONDAY.WAV	Larafriends.jpg
+TIME	Other	skweyul 	day	
+TIME	Other	tl'umqun 	whole day	
+Aquatic Life	Salt Water Mammals	qwunus 	whale*	WHALE 2.WAV
+Aquatic Life	Salt Water Mammals	q'ullhanumutsun 	"killer whale, Orca *"	killer_whale.wav
+Aquatic Life	Fish	slhqul’exun’ 	salmon: side of wind-dried salmon	
+Aquatic Life	Fish	thuqi’ 	salmon: sockeye; coho (smaller cohos which go up smaller streams)** 	salmon_sockeye.wav
+Aquatic Life	Mollusks & Crustaceans	s’axwa’ 	butter clam*	butterclam.wav
+Aquatic Life	Mollusks & Crustaceans	skw’lhey’ 	littleneck clam*	clam_littleneck.wav
+Aquatic Life	Sea Plants	q’am’ 	bulp kelp * marked	kelp_bulb.wav
+Travel	Travel	shelh 	"road, path, door, way"	DOOR.WAV
+Travel	Travel	she’ullh 	"roads, trails, doors"	DOORS9.WAV
+Food	Berries	stth’oom 	berry	berry.wav
+Food	Berries	sqw’iil’muhw 	blackberry	
+Food	Fruit & nuts	qwa’up 	crabapple	
+Food	Fruit & nuts	xxx	apple	bulrush mat.wav
+Food	Vegetables 	na’tu 	corn	corn.wav
+Food	Vegetables 	tl’ikw’un xx	"bean, pea"	
+Food	Nuts	luwen 	oats	
+Food	Nuts	p’qw’axw 	hazelnut	
+Food	Meat, Proteins, Animal Products	tth’utth’uxal’s xx	eggs	
+Food	Meat, Proteins, Animal Products	smuyuth	meat	
+Food	Other	shnetulhqun 	breakfast	
+Food	Other	xxx	lunch	bulrush mat.wav
+Food	Baking, Cooking Process	suplil 	"bread, flour"	bread.wav
+Food	Baking, Cooking Process	’ispawtu 	baking powder	bakingpowder.wav

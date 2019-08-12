@@ -1,0 +1,281 @@
+Super	TOP	SUBTOP	Headword	Definition	SOUND	
+School	Time	"Weeks, Months, and Seasons"	suxulhnet 	"Sunday, week"	06kuktala.wav	
+School	Time	"Weeks, Months, and Seasons"	sil'wulhnet 	Monday	MONDAY.WAV	Larafriends.jpg
+School	Time	"Weeks, Months, and Seasons"	sthumunts 	Tuesday (second day of the week)		
+School	Time	"Weeks, Months, and Seasons"	slhihws 	Wednesday; third	WEDNESDAY.wav	
+School	Time	"Weeks, Months, and Seasons"	sxu'athuns 	Thursday		Larafriends.jpg
+School	Time	"Weeks, Months, and Seasons"	slhq'etsuss 	Friday		
+School	Time	"Weeks, Months, and Seasons"	t'aqw'tum' 	Saturday	SAT.WAV	
+School	Time	"Weeks, Months, and Seasons"	tth'ul'xwumutsun 	January	January.wav	
+School	Time	"Weeks, Months, and Seasons"	pune'q 	January; geoduck (gooeyduck) clam (gathered in January)		
+School	Time	"Weeks, Months, and Seasons"	mim'ne' 	February	february1.wav	
+School	Time	"Weeks, Months, and Seasons"	wulhxus 	March (when frogs start croaking)	MARCH.WAV	
+School	Time	"Weeks, Months, and Seasons"	liimus 	April	April.wav	Larafriends.jpg
+School	Time	"Weeks, Months, and Seasons"	punhwemun 	May		
+School	Time	"Weeks, Months, and Seasons"	qw'i'lus 	June		
+School	Time	"Weeks, Months, and Seasons"	tum'qw'i'lus 	July		
+School	Time	"Weeks, Months, and Seasons"	tum'qwe'unhw 	August (mosquito month)		
+School	Time	"Weeks, Months, and Seasons"	p'uq'ulenhw 	September		
+School	Time	"Weeks, Months, and Seasons"	hwisulenhw 	October		
+School	Time	"Weeks, Months, and Seasons"	lu'ultsuptun 	"month for gathering wood, November"		
+School	Time	"Weeks, Months, and Seasons"	suyum 	December		
+School	Time	"Weeks, Months, and Seasons"	yuqw'iqw'ul'us 	spring (springtime)		
+School	Time	"Weeks, Months, and Seasons"	tum'qw'i'lus 	spring (time of ripening)		
+School	Time	"Weeks, Months, and Seasons"	tun'peenhw 	season when camas blooms		
+School	Time	"Weeks, Months, and Seasons"	tum'kw'e'lus 	summer		
+School	Time	"Weeks, Months, and Seasons"	qw'i'lus 	summer		
+School	Time	"Weeks, Months, and Seasons"	qw'i'qw'ul'as 	summer: during the summer		
+School	Time	"Weeks, Months, and Seasons"	yuxay'tl'thut 	"fall; autumn: cold (getting cold, of weather)"		
+School	Time	"Weeks, Months, and Seasons"	tun'sliim 	time in the fall when wild geese move in formation		
+School	Time	"Weeks, Months, and Seasons"	tum'xuytl' 	winter		
+School	Time	"Weeks, Months, and Seasons"	sil'anum 	year	YEAR.WAV	
+School	Time	"Weeks, Months, and Seasons"	tun'tqey'un 	month you set weirs		
+School	Time	Other	skweyul 	day		
+School	Time	Other	tl'umqun 	whole day		
+School	Time	Other	netulh 	morning		
+School	Time	Other	tth'ekw'ul 	dawn; daybreak		
+School	Time	Other	yutth'etth'ukw'ul' 	dawn; getting daylight		
+School	Time	Other	yuhwkwekwiyul' 	"daybreak; beginning of daybreak, dawn"		
+School	Time	Other	q'ilt 	morning (mid-morning)	LATEMORN.WAV	
+School	Time	Other	yuq'iq'ul't 	midmorning: getting toward midmorning		
+School	Time	Other	yuhwun'nut 	evening: dusk		
+School	Time	Other	hwune'unt 	"evening, become evening"		
+School	Time	Other	snet 	night (noun)		
+School	Time	Other	net 	night; be night		
+School	Time	Other	kweyel 	"tomorrow, daylight"	DAY.WAV	
+School	Time	Other	tsul'equlh 	yesterday	YESTDAY.WAV	
+School	Time	Other	lhuw'ulhne' 	day before yesterday	DAYBF.WAV	
+School	Time	Other	hith 	late	LONGTIME.WAV	
+School	Time	Other	hith 	long time	LONGTIME.WAV	
+School	Time	Other	hithulh 	long time PAST		
+School	Time	Other	huy 	when; whenever		
+School	Time	Other	tahw 	"right now, later, then, there"		
+School	Time	Other	ts'uhwle' 	sometimes	SOMETIME.WAV	
+School	Time	Other	qul'et 	again; next (time)		
+School	Time	Other	shkwan 	birthday		
+Animals	Aquatic Life	Salt Water Mammals	qwunus 	whale*	WHALE 2.WAV	
+Animals	Aquatic Life	Salt Water Mammals	q'ullhanumutsun 	"killer whale, Orca *"	killer_whale.wav	
+Animals	Aquatic Life	Salt Water Mammals	kw'aant' 	"dolphin, porpoise*"	dolphin.wav	
+Animals	Aquatic Life	Salt Water Mammals	*SPACE*	
+Animals	Aquatic Life	Salt Water Mammals	tumus 	otter: sea otter*	otter_sea.wav	
+Animals	Aquatic Life	Salt Water Mammals	xxx	seal *	bulrush mat.wav	
+Animals	Aquatic Life	Salt Water Mammals	shes 	sealion 	sealion.wav	
+Animals	Aquatic Life	Fish	stseelhtun 	fish (salmon)**  		
+Animals	Aquatic Life	Fish	stseelhtun 	salmon		
+Animals	Aquatic Life	Fish	the’wun 	"salmon: coho, silver"		
+Animals	Aquatic Life	Fish	kw’a’luhw 	salmon: dog salmon*	dogsalmon.wav	
+Animals	Aquatic Life	Fish	xil’e’ts 	"salmon: dog salmon, after spawning*with p "	dogsalmon_after_spawning.wav	
+Animals	Aquatic Life	Fish	aan’ 	salmon: humpback (pinks)		
+Animals	Aquatic Life	Fish	lhi’lhq’uw’s 	salmon: jack spring salmon** ??		
+Animals	Aquatic Life	Fish	slhqul’exun’ 	salmon: side of wind-dried salmon		
+Animals	Aquatic Life	Fish	thuqi’ 	salmon: sockeye; coho (smaller cohos which go up smaller streams)** 	salmon_sockeye.wav	
+Animals	Aquatic Life	Fish	stth’aqwi’ 	salmon: spring salmon ** not loud enough. going to fix	salmon_spring.wav	
+Animals	Aquatic Life	Fish	sine’uts 	"salmon: tyee, spring salmon after going upriver"		
+Animals	Aquatic Life	Fish	t’emukw’ 	roe: salmon eggs **		
+Animals	Aquatic Life	Fish	qwtaythun 	sturgeon?	STURGEON.WAV	
+Animals	Aquatic Life	Fish	kw’suts 	trout		
+Animals	Aquatic Life	Fish	kw’uli’kw’suts 	trouts: little trouts DIM		
+Animals	Aquatic Life	Fish	’eyt 	"cod, lingcod*"	cod_lingcod.wav	
+Animals	Aquatic Life	Fish	t’q’as 	"cod: rock cod, black sea bass*"	cod_rock.wav	
+Animals	Aquatic Life	Fish	xxx	Tommy Cod *	bulrush mat.wav	
+Animals	Aquatic Life	Fish	xuy’xuy’tl’ 	cod eggs (roe)*	"cod_eggs.wav, CODEGGS.WAV"	
+Animals	Aquatic Life	Fish	tl’qw’ay’ 	milt		
+Animals	Aquatic Life	Fish	slhewut’ 	herring*	herring.wav	
+Animals	Aquatic Life	Fish	ts’um’ush 	roe: herring roe*	HERRINGR.WAV	
+Animals	Aquatic Life	Fish	stsa’tx 	halibut*		
+Animals	Aquatic Life	Fish	tuqwtuqw 	red snapper?need to find		
+Animals	Aquatic Life	Fish	stsa’kwum 	smelt		
+Animals	Aquatic Life	Fish	sxuw’q’um’ 	steelhead*need fixing 	"steelhe2.wav, steelhed.wav"	
+Animals	Aquatic Life	Fish	skwun’ehw 	bullhead (sea and fresh water)*	bullhead_fish.wav	
+Animals	Aquatic Life	Fish	kw’eets’ 	dogfish (shark)* DF2	dogfish 2.wav	
+Animals	Aquatic Life	Fish	kw’uts’unulhtsu 	shark*	SHARK.WAV	
+Animals	Aquatic Life	Fish	skw’e’ 	eel*	eel.wav	
+Animals	Aquatic Life	Fish	sxuy’usa’qw 	fish head	FISHHEAD.WAV	
+Animals	Aquatic Life	Fish	sxup’shun’ 	fish tail*	FISHTAIL.WAV	
+Animals	Aquatic Life	Fish	q’utmun’ 	fin (fish fin)*need fixing		
+Animals	Aquatic Life	Fish	shq'e'wutsun	dorsal fin ? 		
+Animals	Aquatic Life	Fish	xxx	fish heart 1 * 	bulrush mat.wav	
+Animals	Aquatic Life	Mollusks & Crustaceans	s’axwa’ 	butter clam*	butterclam.wav	
+Animals	Aquatic Life	Mollusks & Crustaceans	skw’lhey’ 	littleneck clam*	clam_littleneck.wav	
+Animals	Aquatic Life	Mollusks & Crustaceans	xxx	horse clam*	bulrush mat.wav	
+Animals	Aquatic Life	Mollusks & Crustaceans	’ey’x 	crab*	"crab.wav, crab3.wav"	
+Animals	Aquatic Life	Mollusks & Crustaceans	’eyuxal’lh 	"crab (little, immature crabs)"		
+Animals	Aquatic Life	Mollusks & Crustaceans	musuqw 	crab (Snuneymuhw)	CRAB2.WAV	
+Animals	Aquatic Life	Mollusks & Crustaceans	kwukwatl’shun 	crab: long-legged crab (edible in winter)	crab_longlegged.wav	
+Animals	Aquatic Life	Mollusks & Crustaceans	smul’sh 	crab: soft-shelled crab	crab_softshelled.wav	
+Animals	Aquatic Life	Mollusks & Crustaceans	ma’mul’ 	crayfish (sand crayfish)	"crayfish_mud_shrimp.wav, CRAYFISH.WAV"	
+Animals	Aquatic Life	Mollusks & Crustaceans	kwun’eem’mun’ 	scallop*	scallop.wav	
+Animals	Aquatic Life	Mollusks & Crustaceans	sweem 	horseclams*	clam_horseclam.wav	
+Animals	Aquatic Life	Mollusks & Crustaceans	lhew’qum’ 	mussel*noise reduce 	MUSSEL.wav	
+Animals	Aquatic Life	Mollusks & Crustaceans	tl’uxwtl’uxw 	oyster *	OYSTER.wav	
+Animals	Aquatic Life	Mollusks & Crustaceans	xihwu 		sea_urchin_purple.wav	
+Animals	Aquatic Life	Mollusks & Crustaceans	skw’itth’i’ 	"sea egg, sea urchin (small type, green with short spines)*"	sea_urchin_green.wav	
+Animals	Aquatic Life	Mollusks & Crustaceans	thikwt 	sea cucumber (red or black)*	seacucumber.wav	
+Animals	Aquatic Life	Mollusks & Crustaceans	sqi’mukw’ 	octopus*	octopus3.wav	
+Animals	Aquatic Life	Mollusks & Crustaceans	tumulqlh 	starfish - sea star  *	STARFISH.wav	
+Animals	Aquatic Life	Mollusks & Crustaceans	qumine’ 	abalone*	"abalone.wav, "	
+Animals	Aquatic Life	Mollusks & Crustaceans	s’eyuw’ 	abalone shell*	"abalone_shell.wav, ABALONES.WAV"	
+Animals	Aquatic Life	Mollusks & Crustaceans	tth’umay’u 	barnacle*	barnacle.wav	
+Animals	Aquatic Life	Mollusks & Crustaceans	q’uye’mun 	shell: sea shells*	seashells.wav	
+Animals	Aquatic Life	Mollusks & Crustaceans	xxx	crayfish *	bulrush mat.wav	
+Animals	Aquatic Life	Sea Plants	q’am’ 	bulp kelp * marked	kelp_bulb.wav	
+Animals	Aquatic Life	Sea Plants	lhuq’us 	seaweed *  	seaweed.wav	
+Animals	Aquatic Life	Sea Plants	xxx	bladderwrack 	bulrush mat.wav	
+Animals	Aquatic Life	Sea Plants	xxx	rock weed ? 	bulrush mat.wav	
+World around us	Buildings, Places 	Public Buildings, Places	skwoulew’t-hw 	school (school house)		
+World around us	Buildings, Places 	Public Buildings, Places	skwoukwul’ 	school: going to school		
+World around us	Buildings, Places 	Public Buildings, Places	shhwiw’a’lum’ 	playground		
+World around us	Buildings, Places 	Public Buildings, Places	q’aq’iyew’t-hw 	hospital		
+World around us	Buildings, Places 	Public Buildings, Places	shhwimelu 	"store, market"		
+World around us	Buildings, Places 	Public Buildings, Places	telew’t-hw 	bank 		
+World around us	Buildings, Places 	Public Buildings, Places	shtth’ulutth’a’ 	museum		
+World around us	Buildings, Places 	Public Buildings, Places	shq’uluts’thut 	shelter: a place to shelter oneself		
+World around us	Buildings, Places 	Public Buildings, Places	q’il’ew’t-hw 	smoke house		
+World around us	Buildings, Places 	Public Buildings, Places	silew’t-hw 	tent		
+World around us	Buildings, Places 	Public Buildings, Places	qiq’qiq’ul’sew’t-hw 	jail 		
+World around us	Buildings, Places 	Public Buildings, Places	yalhew’t-hw 	woodshed	WOOSHED.WAV	
+World around us	Buildings, Places 	Home	lelum’ 	"house, dwelling"	house.wav	
+World around us	Buildings, Places 	Home	’a’mut 	home: staying home		
+World around us	Buildings, Places 	Home	t’akw’ 	home: go home		
+World around us	Buildings, Places 	Home	hun’umut 	home: get home		
+World around us	Buildings, Places 	Home	t’at’ukw’ 	home: going home		
+World around us	Buildings, Places 	Ceremonial, Traditional, Longhouse	milhew’t-hw 	dance house		
+World around us	Buildings, Places 	Ceremonial, Traditional, Longhouse	tse’lumunew’t-hw 	log house		
+World around us	Buildings, Places 	Ceremonial, Traditional, Longhouse	shxuxey’elu 	crying place		
+World around us	Buildings, Places 	Ceremonial, Traditional, Longhouse	kweyulutstun 	opening to let light in/smoke out in bighouse		
+World around us	Buildings, Places 	Ceremonial, Traditional, Longhouse	snuqin’ 	other room (other end of the longhouse)		
+World around us	Buildings, Places 	Ceremonial, Traditional, Longhouse	qequn’ 	"posts, corner-posts in longhouse"		
+World around us	Buildings, Places 	Ceremonial, Traditional, Longhouse	Parts of a Building, Rooms			
+World around us	Buildings, Places 	Ceremonial, Traditional, Longhouse	’umutew’t-hw 	"bathroom, restroom"		
+World around us	Buildings, Places 	Ceremonial, Traditional, Longhouse	lhuxunuptun 	floor		
+World around us	Buildings, Places 	Ceremonial, Traditional, Longhouse	t’amun 	wall		
+World around us	Buildings, Places 	Ceremonial, Traditional, Longhouse	shq’uy’tth’uxun 	corner		
+World around us	Buildings, Places 	Ceremonial, Traditional, Longhouse	si’qutsun 	"roof, shed without side walls or veranda"		
+World around us	Buildings, Places 	Ceremonial, Traditional, Longhouse	nets’uw’t-hw 	one house; the other room		
+World around us	Travel	Travel	shelh 	"road, path, door, way"	DOOR.WAV	
+World around us	Travel	Travel	she’ullh 	"roads, trails, doors"	DOORS9.WAV	
+World around us	Travel	Travel	she’shlh 	"trail, little path DIM"		
+World around us	Travel	Travel	snuhwulh 	"canoe, vehicle, car"	canoe.wav	
+World around us	Travel	Travel	sunihwulh 	canoes PL	CANOES.WAV	
+World around us	Travel	Travel	sun’hwilh 	"canoe: leave, depart in a canoe"		
+World around us	Travel	Travel	un’hwulh 	canoe: arrive in a canoe/vehicle		
+World around us	Travel	Travel	teyuwulh 	canoe: modern racing canoe		
+World around us	Travel	Travel	ts’lhtuyuwulh 	canoe (co/fellow-racing-canoes)		
+World around us	Travel	Travel	tsnuhwulh 	"canoe: have, get a canoe"		
+World around us	Travel	Travel	ts-hun’hwulh 	canoe: making a canoe		
+World around us	Travel	Travel	tsunihwulh 	"canoes: make, have canoes"		
+World around us	Travel	Travel	ts-hun’un’hwulh 	canoes: making canoes		
+World around us	Travel	Travel	xwuqw’tun 	pole (canoe pole)		
+World around us	Travel	Travel	sq’umul’ 	paddle (a canoe paddle)		
+World around us	Travel	Travel	kw’ulhkw’ulh 	tippy (canoe)		
+World around us	Travel	Travel	kw’ulh 	spill; tip over in canoe		
+World around us	Travel	Travel	sq’lhan 	"bow, front of canoe"	bow_of_boat.wav	
+World around us	Travel	Travel	s’ile’uq 	back of vehicle (noun)		
+World around us	Travel	Travel	liloot 	train		
+World around us	Travel	Travel	wekun 	wagon		
+World around us	Travel	Travel	hhw’aalh 	ride: a ride		
+World around us	Travel	Travel	yuspay’sukul’ 	bicycle: on a bicycle		
+World around us	Travel	Travel	pout 	boat		
+World around us	Travel	Travel	spouput 	boat: making a boat		
+World around us	Travel	Travel	putenum 	sail (to sail)		
+World around us	Travel	Travel	pupute’num’ 	sailing		
+World around us	Travel	Travel	pi’pute’num’ 	sailing		
+World around us	Travel	Travel	patun 	sail (noun)		
+World around us	Food	Berries	stth’oom 	berry	berry.wav	
+World around us	Food	Berries	sqw’iil’muhw 	blackberry		
+World around us	Food	Berries	stsi’yu 	strawberry		
+World around us	Food	Berries	tsulqama’ 	raspberry		
+World around us	Food	Berries	t’uqwum’ 	thimbleberry		
+World around us	Food	Berries	lila’ 	salmonberry		
+World around us	Food	Berries	t’eqe’ 	salaal berries		
+World around us	Food	Berries	mal’sum’ 	cranberry	CRANBERY.WAV	
+World around us	Food	Berries	sxwesum 	soapberry		
+World around us	Food	Berries	t’em’hw 	gooseberry		
+World around us	Food	Berries	tth’uykwikw 	elderberry: blue elderberries		
+World around us	Food	Berries	tth’iwuq’ 	elderberry: red elderberries		
+World around us	Food	Berries	tushnets 	saskatoon berry		
+World around us	Food	Berries	p’i’p’q’i’as 	waxberry (snowberry)		
+World around us	Food	Fruit & nuts	qwa’up 	crabapple		
+World around us	Food	Fruit & nuts	xxx	apple	bulrush mat.wav	
+World around us	Food	Fruit & nuts	t’ulum’ 	cherry: wild cherry	cherry.wav	
+World around us	Food	Fruit & nuts	klips	"grape, grapes"		
+World around us	Food	Fruit & nuts	’alunchus	"orange, oranges"		
+World around us	Food	Fruit & nuts	p’qw’axw 	hazelnut		
+World around us	Food	Vegetables 	shewuq 	carrot	carrot.wav	
+World around us	Food	Vegetables 	sqewth 	potato		
+World around us	Food	Vegetables 	na’tu 	corn	corn.wav	
+World around us	Food	Vegetables 	tl’ikw’un xx	"bean, pea"		
+World around us	Food	Nuts	luwen 	oats		
+World around us	Food	Nuts	p’qw’axw 	hazelnut		
+World around us	Food	Nuts	xxx	?peanuts	bulrush mat.wav	
+World around us	Food	Nuts	xxx	?pistachio 	bulrush mat.wav	
+World around us	Food	Nuts	xxx	?walnuts	bulrush mat.wav	
+World around us	Food	Meat, Proteins, Animal Products	tth’utth’uxal’s xx	eggs		
+World around us	Food	Meat, Proteins, Animal Products	smuyuth	meat		
+World around us	Food	Meat, Proteins, Animal Products	sq’i’lu 	"smoked fish; smoked, dried food"		
+World around us	Food	Meat, Proteins, Animal Products	sts’uy’hw 	dried smoked salmon		
+World around us	Food	Meat, Proteins, Animal Products	sq’iq’laam’ 	dried fish: small fish hanging PL		
+World around us	Food	Meat, Proteins, Animal Products	stth’ulaalh 	jerky (fish or meat)		
+World around us	Food	Meat, Proteins, Animal Products	t’emukw’ 	roe: salmon eggs		
+World around us	Food	Meat, Proteins, Animal Products	spa’ 	"roe: ’indian cheese’, dried pressed salmon eggs"		
+World around us	Food	Meat, Proteins, Animal Products	stl’umkw’ 	roe: fermented salmon eggs (roe) cured underground	eggs_fermented_salmon.wav	
+World around us	Food	Meat, Proteins, Animal Products	tl’i’nu 	oil: oolichan or herring oil		
+World around us	Food	Meat, Proteins, Animal Products	’anuw’ 	deer fat	deer_fat.wav	
+World around us	Food	Meat, Proteins, Animal Products	snas 	"fat, oil, grease"		
+World around us	Food	Meat, Proteins, Animal Products	qwul’smun 	broth (from steamed food)		
+World around us	Food	Meat, Proteins, Animal Products	"Drinks, Sweets, Other"			
+World around us	Food	Meat, Proteins, Animal Products	sqa’qa’ 	"drink, beverage"		
+World around us	Food	Meat, Proteins, Animal Products	shqwa’ul’uqw 	juice		
+World around us	Food	Meat, Proteins, Animal Products	ti 	tea		
+World around us	Food	Meat, Proteins, Animal Products	me’hwulhp 	Indian tea (a medicine)		
+World around us	Food	Meat, Proteins, Animal Products	shtihelu 	teapot		
+World around us	Food	Meat, Proteins, Animal Products	shoukwu 	sugar		
+World around us	Food	Meat, Proteins, Animal Products	shoukwu’elu 	sugar bowl		
+World around us	Food	Meat, Proteins, Animal Products	tl’elhum	salt		
+World around us	Food	Meat, Proteins, Animal Products	shtl’elhumelu	salt shaker		
+World around us	Food	Meat, Proteins, Animal Products	xxx	pepper	bulrush mat.wav	
+World around us	Food	Meat, Proteins, Animal Products	kw’i’hw 	chewing-gum (noun)	chewing_gum.wav	
+World around us	Food	Meat, Proteins, Animal Products	chumux	"pitch, chewing-gum"		
+World around us	Food	Meat, Proteins, Animal Products	xxx	soup	bulrush mat.wav	
+World around us	Food	Other	shnetulhqun 	breakfast		
+World around us	Food	Other	xxx	lunch	bulrush mat.wav	
+World around us	Food	Other	se’wun 	lunch; trail food		
+World around us	Food	Other	s’ulhtun 	food		
+World around us	Food	Other	’ukw’mun 	"waste, leftovers, shavings, food"		
+World around us	Food	Other	ts’ut’qw’mun 	"droppings from the table, bits"		
+World around us	Food	Other	’ukw’mun 	"waste, leftovers, shavings, food"		
+World around us	Food	Baking, Cooking Process	suplil 	"bread, flour"	bread.wav	
+World around us	Food	Baking, Cooking Process	’ispawtu 	baking powder	bakingpowder.wav	
+World around us	Food	Baking, Cooking Process	spukw’ suplil	flour		
+World around us	Food	Baking, Cooking Process	sqalmuhw 	milk		
+World around us	Food	Baking, Cooking Process	snusalmuhw 	butter		
+World around us	Food	Baking, Cooking Process	luwen 	oats		
+World around us	Food	Baking, Cooking Process	squw 	"bread, native bread"	bread_native.wav	
+World around us	Food	Baking, Cooking Process	xxx suplil	fried bread		
+World around us	Food	Baking, Cooking Process	Cooking/ Cooking Process			
+World around us	Food	Baking, Cooking Process	shhwi’qul’s 	baking pan		
+World around us	Food	Baking, Cooking Process	huqels 	bake		
+World around us	Food	Baking, Cooking Process	xxx	fry	bulrush mat.wav	
+World around us	Food	Baking, Cooking Process	xxx	frying pan	bulrush mat.wav	
+World around us	Food	Baking, Cooking Process	tth’hwas 	steam bake		
+World around us	Food	Baking, Cooking Process	stth’hwas 	steamed (clams)		
+World around us	Food	Baking, Cooking Process	kwoukwt 	cook it (from English)		
+World around us	Food	Baking, Cooking Process	qw’ulum 	barbecue		
+World around us	Food	Baking, Cooking Process	sqw’ul 	"barbecued meat, cooked bread"		
+World around us	Food	Baking, Cooking Process	kw’siwst 	singe the skin of a duck after plucking it		
+World around us	Food	Baking, Cooking Process	hwkw’asust 	heat dry fish over flames (scorching the skin side)		
+World around us	Food	Baking, Cooking Process	pi’kwun 	roasting stick (split)		
+World around us	Food	Baking, Cooking Process	t’ats’a’ 	roasting stick for deer or elk (a spit you push meat on)		
+World around us	Food	Baking, Cooking Process	t’eets’ 	"cross-sticks (used for smoking salmon, barbecuing meat)"		
+World around us	Food	Baking, Cooking Process	tsq’iq’ul’u 	"drying food, getting dried food"		
+World around us	Food	Baking, Cooking Process	hwusq’iq’ul’u 	preserved food: have preserved food		
+World around us	Food	Baking, Cooking Process	q’il’aam’ 	"preserve food, make sq’i’lu (drying, canning, etc)"		
+World around us	Food	Baking, Cooking Process	q’iq’ulaam’ 	preserving food		
+World around us	Food	Baking, Cooking Process	lhiput 	strip slices off (a chunk of meat); strip hops or berries		
+World around us	Food	Baking, Cooking Process	hwlhuw’ut 	shuck clams		
+World around us	Food	Baking, Cooking Process	hwlhuw’els 	shuck clams		
+World around us	Food	Baking, Cooking Process	lhts’alst 	"cut up potatoes, apples, vegetables"		
+World around us	Food	Baking, Cooking Process	lhts’alsels 	"cut up apples, vegetables"		
+World around us	Food	Baking, Cooking Process	lhts’iwst 	cut up fowl		
+World around us	Food	Baking, Cooking Process	qw’umuwst 	pluck a fowl		
+World around us	Food	Baking, Cooking Process	p’tth’ulmuhw 	milk a cow		

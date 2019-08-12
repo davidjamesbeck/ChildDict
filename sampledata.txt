@@ -1,0 +1,792 @@
+H1	H2  - PURPLE	H3 - BLUE	word	eng
+Me & My Family	Pronouns	Independent pronouns	’een’thu	I
+Me & My Family	Pronouns	Independent pronouns	nuwu	you (referring to one person)
+Me & My Family	Pronouns	Independent pronouns	lhnimulh	we
+Me & My Family	Pronouns	Independent pronouns	lhwulup	you (referring to more than one person)
+Me & My Family	Pronouns	Independent pronouns	nilh	he, she
+Me & My Family	Pronouns	Independent pronouns	ne’ullh	they
+Me & My Family	Pronouns	Subject pronouns 	tsun	I
+Me & My Family	Pronouns	Subject pronouns 	ch	you
+Me & My Family	Pronouns	Subject pronouns 	tst	we
+Me & My Family	Pronouns	Subject pronouns 	tseep	you (you all)
+Me & My Family	Pronouns	Subject pronouns 	us	he, she, they
+Me & My Family	Body & Feelings	Head & face	sxuy’us	head
+Me & My Family	Body & Feelings	Head & face	s’athus	face
+Me & My Family	Body & Feelings	Head & face	sqw’umus	forehead
+Me & My Family	Body & Feelings	Head & face	thamun	eyebrow
+Me & My Family	Body & Feelings	Head & face	qulum'	eye
+Me & My Family	Body & Feelings	Head & face	shp'q'eelh	white of eye
+Me & My Family	Body & Feelings	Head & face	shq'xeelh	pupil (black of the eye)
+Me & My Family	Body & Feelings	Head & face	muqsun	nose
+Me & My Family	Body & Feelings	Head & face	*SPACE*
+Me & My Family	Body & Feelings	Head & face	qw'oon'	ear
+Me & My Family	Body & Feelings	Head & face	qw'un'qw'oon'	ears
+Me & My Family	Body & Feelings	Head & face	shtl'pun'u	earlobe
+Me & My Family	Body & Feelings	Head & face	*SPACE*
+Me & My Family	Body & Feelings	Head & face	kwuy'hwulhnulh	neck (front part)
+Me & My Family	Body & Feelings	Head & face	tupsum	neck (back of neck)
+Me & My Family	Body & Feelings	Head & face	shhw'uthqun	throat
+Me & My Family	Body & Feelings	Head & face	xwamlhnulh	throat, windpipe, trachea
+Me & My Family	Body & Feelings	Head & face	*SPACE*
+Me & My Family	Body & Feelings	Head & face	thathun	mouth
+Me & My Family	Body & Feelings	Head & face	slhqwulnus	gums
+Me & My Family	Body & Feelings	Head & face	tuhwthulh	tongue
+Me & My Family	Body & Feelings	Head & face	yunus	tooth
+Me & My Family	Body & Feelings	Head & face	huyinus	teeth
+Me & My Family	Body & Feelings	Head & face	stslhaythun	lip: upper lip
+Me & My Family	Body & Feelings	Head & face	stl'paythun	lip: lower lip
+Me & My Family	Body & Feelings	Head & face	shhw'ii'nu	cheek of animal/human
+Me & My Family	Body & Feelings	Head & face	shhw'un'ii'nu	cheeks
+Me & My Family	Body & Feelings	Head & face	*SPACE*
+Me & My Family	Body & Feelings	Head & face	ts'um'shaythun	jaw
+Me & My Family	Body & Feelings	Head & face	sqwini'uthun	beard
+Me & My Family	Body & Feelings	Head & face	*SPACE*
+Me & My Family	Body & Feelings	Head & face	shkw'i'tth'ul'uqw	top of the head
+Me & My Family	Body & Feelings	Head & face	she'itun	hair
+Me & My Family	Body & Feelings	Head & face	st'qw'i'al's	bangs (hair bangs)
+Me & My Family	Body & Feelings	Head & face	tskwi'ma'qw	red haired (redheaded)
+Me & My Family	Body & Feelings	Arms & legs	*SPACE*
+Me & My Family	Body & Feelings	Arms & legs	snuxtsus	finger
+Me & My Family	Body & Feelings	Arms & legs	sun'tl'a'luw'tsus	thumb
+Me & My Family	Body & Feelings	Arms & legs	tselush	hand
+Me & My Family	Body & Feelings	Arms & legs	tsultselush	hands
+Me & My Family	Body & Feelings	Arms & legs	su'asuqwta'luw'tsus	finger: little finger
+Me & My Family	Body & Feelings	Arms & legs	qw'xwa'luw'tsus	fingernail
+Me & My Family	Body & Feelings	Arms & legs	stth'ukwtsis	left hand
+Me & My Family	Body & Feelings	Arms & legs	s'i'a'lum'tsus	right hand
+Me & My Family	Body & Feelings	Arms & legs	shxathus	palm of hand; sole of foot
+Me & My Family	Body & Feelings	Arms & legs	*SPACE*
+Me & My Family	Body & Feelings	Arms & legs	t'eluw'	arm; wing
+Me & My Family	Body & Feelings	Arms & legs	t'ult'eluw'	arms
+Me & My Family	Body & Feelings	Arms & legs	qwum'xwtsus	wrist
+Me & My Family	Body & Feelings	Arms & legs	kwum'tth'ulexun'	elbow
+Me & My Family	Body & Feelings	Arms & legs	sqwuntsus	hair on arm
+Me & My Family	Body & Feelings	Arms & legs	stth'kwu'iw's	left side, arm
+Me & My Family	Body & Feelings	Arms & legs	s'i'a'lum'iw's	right side, right arm
+Me & My Family	Body & Feelings	Arms & legs	*SPACE*
+Me & My Family	Body & Feelings	Arms & legs	shqp'althutun	knee-cap
+Me & My Family	Body & Feelings	Arms & legs	sq'ewum	knee
+Me & My Family	Body & Feelings	Arms & legs	sq'uw'q'ewum	knees
+Me & My Family	Body & Feelings	Arms & legs	q'etl'ul'shun	calf of leg
+Me & My Family	Body & Feelings	Arms & legs	qwum'xwshun	ankle
+Me & My Family	Body & Feelings	Arms & legs	stth'ukwshin'	left foot
+Me & My Family	Body & Feelings	Arms & legs	s'i'a'luw'shun	right foot
+Me & My Family	Body & Feelings	Arms & legs	sxun'u	foot, leg
+Me & My Family	Body & Feelings	Arms & legs	sxuxi'nu	legs, feet
+Me & My Family	Body & Feelings	Arms & legs	snuhwulhshun	foot
+Me & My Family	Body & Feelings	Arms & legs	snuxshun	toe
+Me & My Family	Body & Feelings	Arms & legs	qw'xwa'luw'shun	toenail
+Me & My Family	Body & Feelings	Arms & legs	su'asuqwta'luw'shun	toe: little toe
+Me & My Family	Body & Feelings	Arms & legs	sun'tl'a'luw'shun	toe: big toe
+Me & My Family	Body & Feelings	Body core	smustimuhw	body
+Me & My Family	Body & Feelings	Body core	kw'uluw'	skin (hide, fur, pelt, bark)
+Me & My Family	Body & Feelings	Body core	shtth'utth'a'	skeleton
+Me & My Family	Body & Feelings	Body core	ts'xemun	chest
+Me & My Family	Body & Feelings	Body core	slhuq'we'lh	back
+Me & My Family	Body & Feelings	Body core	qwuqw'ten	shoulder
+Me & My Family	Body & Feelings	Body core	s’inus	breastbone, chest
+Me & My Family	Body & Feelings	Body core	luwux	ribs (and on canoes and boats)
+Me & My Family	Body & Feelings	Body core	qtewustun	waist, waistband or waistline
+Me & My Family	Body & Feelings	Body core	slhulnuts	bottom
+Me & My Family	Body & Feelings	Internal organs	tth’ele’	heart
+Me & My Family	Body & Feelings	Internal organs	thethi'un	blood
+Me & My Family	Body & Feelings	Internal organs	slhkw'emuws	pulse
+Me & My Family	Body & Feelings	Internal organs	thunthun	kidney
+Me & My Family	Body & Feelings	Internal organs	t'eqe'	liver (human)
+Me & My Family	Body & Feelings	Internal organs	kw’ul’u	stomach (abdomen)
+Me & My Family	Body & Feelings	Internal organs	xxx	bladder
+Me & My Family	Body & Feelings	Internal organs	suxwa’	pee
+Me & My Family	Body & Feelings	Internal organs	xxx	lung
+Me & My Family	Body & Feelings	Internal organs	slhekw'um	breath
+Me & My Family	Body & Feelings	Internal organs	q'uq'i'	intestines
+Me & My Family	Body & Feelings	Internal organs	*SPACE*
+Me & My Family	Body & Feelings	Feelings & Senses	shqwaluwun	feelings, thoughts
+Me & My Family	Body & Feelings	Feelings & Senses	xtsuthut	think
+Me & My Family	Body & Feelings	Feelings & Senses	sht’eewun’	think, believe, wonder
+Me & My Family	Body & Feelings	Feelings & Senses	*SPACE*
+Me & My Family	Body & Feelings	Feelings & Senses	si’si’	afraid
+Me & My Family	Body & Feelings	Feelings & Senses	qiqul’us	sad
+Me & My Family	Body & Feelings	Feelings & Senses	sqiqul’us	sad
+Me & My Family	Body & Feelings	Feelings & Senses	tuqnuhw	feel bad about
+Me & My Family	Body & Feelings	Feelings & Senses	suyum	hurt, get pains
+Me & My Family	Body & Feelings	Feelings & Senses	sqwsun’e’	anchored; angry, bad mood
+Me & My Family	Body & Feelings	Feelings & Senses	s’ey’qsta’mu	angry at you (and disagree with you)
+Me & My Family	Body & Feelings	Feelings & Senses	qel’nal’hw	angry with us
+Me & My Family	Body & Feelings	Feelings & Senses	qel’nuhw	mad at (being mad at)
+Me & My Family	Body & Feelings	Feelings & Senses	qulnuhw	mad at (get mad at)
+Me & My Family	Body & Feelings	Feelings & Senses	qulstuhw	dislike
+Me & My Family	Body & Feelings	Feelings & Senses	him’tth’en’t	disbelieve him
+Me & My Family	Body & Feelings	Feelings & Senses	hwquluwun	mean
+Me & My Family	Body & Feelings	Feelings & Senses	hwnats’us	look or act innocent when guilty
+Me & My Family	Body & Feelings	Feelings & Senses	sxixutth’	insulted, hurt by harsh words
+Me & My Family	Body & Feelings	Feelings & Senses	xitth’ul	insulted: become insulted, hurt by harsh words
+Me & My Family	Body & Feelings	Feelings & Senses	xixutth’ul’	insulted: feeling insulted, feeling hurt by harsh words
+Me & My Family	Body & Feelings	Feelings & Senses	mel’q	forget
+Me & My Family	Body & Feelings	Feelings & Senses	mel’qt	forget it
+Me & My Family	Body & Feelings	Feelings & Senses	me’mul’q	forgetting
+Me & My Family	Body & Feelings	Feelings & Senses	smel’q	forgotten
+Me & My Family	Body & Feelings	Feelings & Senses	skwati	crazy
+Me & My Family	Body & Feelings	Feelings & Senses	ts’uq’	astonished
+Me & My Family	Body & Feelings	Feelings & Senses	tsatuxwul	bewildered: to become stunned or bewildered
+Me & My Family	Body & Feelings	Feelings & Senses	stl’i’	want, desire, like
+Me & My Family	Body & Feelings	Feelings & Senses	wuwi’stun’uq	jealous: being jealous
+Me & My Family	Body & Feelings	Feelings & Senses	tl’i’tul	like each other
+Me & My Family	Body & Feelings	Feelings & Senses	’uy’stuhw	like it, him, or her
+Me & My Family	Body & Feelings	Feelings & Senses	tl’i’t	like, not want to part with something one treasures
+Me & My Family	Body & Feelings	Feelings & Senses	ts’elhum’	hear
+Me & My Family	Body & Feelings	Feelings & Senses	ts’elhum’ut	hear
+Me & My Family	Body & Feelings	Feelings & Senses	huqwnuhw	smell it
+Me & My Family	Body & Feelings	Feelings & Senses	haqwut	smell it, sniff it
+Me & My Family	Body & Feelings	Feelings & Senses	sal’lus	lightheaded; slightly inebriated, feeling good
+Me & My Family	Body & Feelings	Feelings & Senses	squlquluthun	dream (noun)
+Me & My Family	Body & Feelings	Feelings & Senses	xuyxayukw’ustum	nightmare: have a nightmare
+Me & My Family	Body & Feelings	Feelings & Senses	xuyxayukw’usthelum	nightmare: I had a nightmare
+Me & My Family	Relations	Parents	shhwuw’weli	parents, relatives
+Me & My Family	Relations	Parents	shhwuw’we	parent
+Me & My Family	Relations	Parents	men	father
+Me & My Family	Relations	Parents	me’	dad
+Me & My Family	Relations	Parents	ten	mother
+Me & My Family	Relations	Parents	te’	mom
+Me & My Family	Relations	Parents	tsi’tsut	parent (when speaking of someone else’s parent)
+Me & My Family	Relations	Parents	tsuli’tsut	parents Note
+Me & My Family	Relations	Parents	tslile’em	stepparent
+Me & My Family	Relations	Siblings & children	qw’uqw’i’tul	siblings
+Me & My Family	Relations	Siblings & children	shhw’aqw’a’	brother, sister, cousin
+Me & My Family	Relations	Siblings & children	shhw’a’luqw’a’	brothers, sisters, cousins
+Me & My Family	Relations	Siblings & children	sts’iyayu	twins
+Me & My Family	Relations	Siblings & children	shuyulh	sibling: older brother, sister, cousin
+Me & My Family	Relations	Siblings & children	shushiyulh	older brothers, sisters, cousins
+Me & My Family	Relations	Siblings & children	sqe’uq	sibling: younger sister, brother, cousin
+Me & My Family	Relations	Siblings & children	snuts’uwyulh	sibling: half brother or sister
+Me & My Family	Relations	Children 	stl’i’tl’qulh	child
+Me & My Family	Relations	Children 	stl’ul’iqulh	children
+Me & My Family	Relations	Children 	tslhmun’um	stepchild
+Me & My Family	Relations	Children 	mun’u	offspring: son, daughter
+Me & My Family	Relations	Children 	mim’ne’	offspring: son, daughter DIM
+Me & My Family	Relations	Children 	me’mun’u	offspring: sons, daughters
+Me & My Family	Relations	Children 	*SPACE*
+Me & My Family	Relations	Children 	stiwun	nephew, niece
+Me & My Family	Relations	Children 	tiwun	nephew (address form)
+Me & My Family	Relations	Children 	stutiwun	nieces, nephews
+Me & My Family	Relations	Marriage, partners	*SPACE*
+Me & My Family	Relations	Marriage, partners	sta’lus	spouse (husband, wife)
+Me & My Family	Relations	Marriage, partners	tsehw	spouse
+Me & My Family	Relations	Marriage, partners	sq’a’	companion, mate, spouse
+Me & My Family	Relations	Marriage, partners	naw’	term of endearment addressed to a spouse
+Me & My Family	Relations	Marriage, partners	mulyitul	marry
+Me & My Family	Relations	Marriage, partners	sme’luyi	married
+Me & My Family	Relations	Marriage, partners	tsta’lus	marry: get a wife or husband
+Me & My Family	Relations	Marriage, partners	sye’tun	widow
+Me & My Family	Relations	Marriage, partners	kwukwa’tul	divorced, apart, separated
+Me & My Family	Relations	Extended family	*SPACE*
+Me & My Family	Relations	Extended family	shtun’ni’iws	ancestor
+Me & My Family	Relations	Extended family	sye’ye’	friend, relative
+Me & My Family	Relations	Extended family	siiye’yu	friends, relatives
+Me & My Family	Relations	Extended family	*SPACE*
+Me & My Family	Relations	Extended family	si’lu	grandparent
+Me & My Family	Relations	Extended family	sul’si’lu	grandparents
+Me & My Family	Relations	Extended family	*SPACE*
+Me & My Family	Relations	Extended family	’imuth	grandchild
+Me & My Family	Relations	Extended family	’um-’imuth	grandchildren
+Me & My Family	Relations	Extended family	’imuye’	grandchild (address form)
+Me & My Family	Relations	Extended family	’im	grandchild (familiar)
+Me & My Family	Relations	Extended family	*SPACE*
+Me & My Family	Relations	Extended family	sts’a’muqw	great-grandparent; great-grandchild
+Me & My Family	Relations	Extended family	sts’a’lumuqw	great-grandparents; great-grandchilden
+Me & My Family	Relations	Extended family	ts’a’muqw	great-grandparent; great-grandchild (address form)
+Me & My Family	Relations	Extended family	shhwum’nikw	uncle, aunt
+Me & My Family	Relations	Extended family	shhwum’ne’lukw	uncles, aunts
+Me & My Family	Relations	Extended family	nikwiye’	uncle (address form)
+Me & My Family	Relations	Extended family	nikw	uncle (familiar)
+Me & My Family	People	People words	slheni’	woman
+Me & My Family	People	People words	slhunlheni’	women
+Me & My Family	People	People words	slheni’allh	girl
+Me & My Family	People	People words	slhelhni’	girl, little woman
+Me & My Family	People	People words	q’e’muy’alh	young girl
+Me & My Family	People	People words	q’e’mi’	girl (teenage)
+Me & My Family	People	People words	q’e’lumi’	girls (teenage)
+Me & My Family	People	People words	*SPACE*
+Me & My Family	People	People words	swuy’qe’	man, male
+Me & My Family	People	People words	suw’wuy’qe’	men
+Me & My Family	People	People words	swiw’lus	young man, teenage boy
+Me & My Family	People	People words	swuy’qe’allh	boy
+Me & My Family	People	People words	suw’wuy’qe’allh	boys
+Me & My Family	People	People words	swuwi’qe’al’lh	boy: little boy DIM
+Me & My Family	People	People words	swaaw’lus	boys
+Me & My Family	People	People words	*SPACE*
+Me & My Family	People	People words	’ulhwilmuhw	lineage of people
+Me & My Family	People	People words	hwulmuhw	First Nations person
+Me & My Family	People	People words	hwuhwilmuhw	First Nations people
+Me & My Family	People	People words	hwul’ihwul’muhw	First Nations DIM
+Me & My Family	People	People words	ts’lhhwulmuhw	fellow First Nations, tribesmen
+Me & My Family	People	People words	muthe’lumuhw	Westcoast people
+Me & My Family	People	People words	hwunitum’	white man
+Me & My Family	People	People words	hwulunitum’	white people
+Me & My Family	People	People words	q’i’xuye’	black (person)
+Me & My Family	People	People words	*SPACE*
+Me & My Family	People	People words	lhutth’lhut’	comical person
+Me & My Family	People	People words	hwst’uy’qw’	cranky person
+Me & My Family	People	People words	smetth’un’	proud person
+Me & My Family	People	People words	hwsmul’mul’q	absent-minded person
+Me & My Family	People	People words	hwsyun’yun’	laugher, one who laughs easily
+Me & My Family	People	People words	qwulqwul	talkative
+Me & My Family	People	Other people words	xeel’s	changer, creator
+Me & My Family	People	Other people words	mustimuhw	person, people, human
+Me & My Family	People	Other people words	mulstimuhw	people
+Me & My Family	People	Other people words	musteyuhw	people (Snuneymuxw)
+Me & My Family	People	Other people words	tun’aalhtun	heritage
+Me & My Family	People	Other people words	hwswenum	orphan
+Me & My Family	People	Other people words	siyeeye’	little people (they sometimes cause trees to fall near you)
+Me & My Family	People	Other people words	sne	name (noun)
+Me & My Family	People	Other people words	stsi’elh	respected one
+Me & My Family	People	Other people words	s’ul’eluhw	elders
+Me & My Family	People	Other people words	stamush	warrior
+Me & My Family	People	Other people words	hwkwunkwunlhnenum	hunter, good provider
+Me & My Family	People	Other people words	skwish	name (Snueneymuxw)
+Some Language Basics	Useful words (revise label)	Question words	’untsu	be where
+Some Language Basics	Useful words (revise label)	Question words	tu'untsu	xxx
+Some Language Basics	Useful words (revise label)	Question words	stsekwul’	how
+Some Language Basics	Useful words (revise label)	Question words	hwtsel	xxx
+Some Language Basics	Useful words (revise label)	Question words	tstamut	xxx
+Some Language Basics	Useful words (revise label)	Question words	stem	what; something
+Some Language Basics	Useful words (revise label)	Question words	stul’’em’	whatever things
+Some Language Basics	Useful words (revise label)	Question words	tum'tem	when (“time of what”)
+Some Language Basics	Useful words (revise label)	Question words	hw’iint	say what
+Some Language Basics	Useful words (revise label)	Question words	lhwet	who
+Some Language Basics	Useful words (revise label)	Question words	tuwet	whose
+Some Language Basics	Useful words (revise label)	Question words	nutsim’	why
+Some Language Basics	Useful words (revise label)	Question words	kw’in	how much or many
+Some Language Basics	Useful words (revise label)	Question words	skw’ins	what day
+Some Language Basics	Useful words (revise label)	Question words	*SPACE*
+Some Language Basics	Useful words (revise label)	Question words	’u	question particle
+Some Language Basics	Useful words (revise label)	Question words	nii	xxx
+Some Language Basics	Useful words (revise label)	Question words	’ii	xxx
+Some Language Basics	Useful words (revise label)	Location words	*SPACE*
+Some Language Basics	Useful words (revise label)	Location words	sts’utse’	on (be on something)
+Some Language Basics	Useful words (revise label)	Location words	sun’iw’	in (be in something)
+Some Language Basics	Useful words (revise label)	Location words	ts’lh	(prefix) with
+Some Language Basics	Useful words (revise label)	Location words	si’q	underneath
+Some Language Basics	Useful words (revise label)	Location words	stl’pal’we’lh	underneath
+Some Language Basics	Useful words (revise label)	Location words	stslhal’we’lh	above, on top of
+Some Language Basics	Useful words (revise label)	Location words	stutes	near by
+Some Language Basics	Useful words (revise label)	Location words	s’a’kw’us	hanging on
+Some Language Basics	Useful words (revise label)	Location words	st’i’am’	stuck on, attached to
+Some Language Basics	Useful words (revise label)	Meeting and greeting	*SPACE*
+Some Language Basics	Useful words (revise label)	Meeting and greeting	hee’	yes
+Some Language Basics	Useful words (revise label)	Meeting and greeting	’uwu	no
+Some Language Basics	Useful words (revise label)	Meeting and greeting	tth’ihwum	please
+Some Language Basics	Useful words (revise label)	Meeting and greeting	hay	ch q’a’ thank you
+Some Language Basics	Useful words (revise label)	Meeting and greeting	hay	tseep q’a’ thank you (to more than one person)
+Some Language Basics	Useful words (revise label)	Meeting and greeting	namut	kwu you're welcome
+Some Language Basics	Useful words (revise label)	Meeting and greeting	*SPACE*
+Some Language Basics	Useful words (revise label)	Meeting and greeting	kwunutsust	shake someone’s hand, hold someone’s hand
+Some Language Basics	Useful words (revise label)	Meeting and greeting	ts’iitalu	thank you
+Some Language Basics	Useful words (revise label)	Meeting and greeting	ts’uy’ulh	thank, express appreciation
+Some Language Basics	Useful words (revise label)	Meeting and greeting	ts’iit	thank; greet
+Some Language Basics	Useful words (revise label)	Meeting and greeting	*SPACE*
+Some Language Basics	Useful words (revise label)	Meeting and greeting	q’uq’a’tul’	meeting each other
+Some Language Basics	Useful words (revise label)	Meeting and greeting	ts’lhq’uq’a’tul’	people attending a meeting
+Some Language Basics	Action Words	Simple action words	nem’	go
+Some Language Basics	Action Words	Simple action words	m’i	come
+Some Language Basics	Action Words	Simple action words	m’i	‘ewu come here
+Some Language Basics	Action Words	Simple action words	hwts’e’nutsum	sit down
+Some Language Basics	Action Words	Simple action words	’umut	get out of bed (also for some people ‘to sit’)
+Some Language Basics	Action Words	Simple action words	lhxilush	stand up
+Some Language Basics	Action Words	Simple action words	ts’ehwul’	shut up, keep quiet
+Some Language Basics	Action Words	Simple action words	s-ts’ets’uhw	be quiet
+Some Language Basics	Action Words	Simple action words	hwiyuneem’	listen
+Some Language Basics	Action Words	Simple action words	t’ilum	sing
+Some Language Basics	Action Words	Simple action words	qw’uyulush	dance
+Some Language Basics	Action Words	Simple action words	hwyunumus	smile
+Some Language Basics	Action Words	Simple action words	’imush	walk
+Some Language Basics	Action Words	Simple action words	xwchenum	run
+Some Language Basics	Action Words	Simple action words	’umshasum’	take a walk, go for a drive
+Some Language Basics	Action Words	Simple action words	lhuqw’tssum	clap your hands
+Some Language Basics	Action Words	Simple action words	lumhwshenum	stamp your feet
+Some Language Basics	Action Words	Simple action words	’unuhw	stop
+Some Language Basics	Action Words	Simple action words	huye’	leave
+Some Language Basics	Action Words	Simple action words	q’ulum’	camp, stay overnight
+Some Language Basics	Action Words	Simple action words	lhumts’el’s	pick (berries, fruit, vegetables)
+Some Language Basics	Action Words	Simple action words	t’i’wi’ulh	pray
+Some Language Basics	Action Words	Simple action words	xlhas	eat
+Some Language Basics	Action Words	Verbs & progressives	’itut	sleep
+Some Language Basics	Action Words	Verbs & progressives	’i’tut	sleeping
+Some Language Basics	Action Words	Verbs & progressives	’ulhtun	eat
+Some Language Basics	Action Words	Verbs & progressives	’i’lhtun’	eating
+Some Language Basics	Action Words	Verbs & progressives	yaays	work
+Some Language Basics	Action Words	Verbs & progressives	yaay’us	working
+Some Language Basics	Action Words	Verbs & progressives	nem’	tl’ tawun go to town
+Some Language Basics	Action Words	Verbs & progressives	hunum’	tl’ tawun going to town
+Some Language Basics	Action Words	Verbs & progressives	qwal	talk
+Some Language Basics	Action Words	Verbs & progressives	qwaqwul’	talking
+Some Language Basics	Action Words	Verbs & progressives	huw’a’lum’	play
+Some Language Basics	Action Words	Verbs & progressives	hiiw’a’lum’	’u tu kumputu kems playing computer games
+Some Language Basics	Describing words	Size & shape	’uhwin’	little, small
+Some Language Basics	Describing words	Size & shape	’e’uhwin	little, small, tiny
+Some Language Basics	Describing words	Size & shape	*SPACE*
+Some Language Basics	Describing words	Size & shape	thi	big
+Some Language Basics	Describing words	Size & shape	thequn	big container
+Some Language Basics	Describing words	Size & shape	thithushun	big feet
+Some Language Basics	Describing words	Size & shape	’uhwiin’	small
+Some Language Basics	Describing words	Size & shape	*SPACE*
+Some Language Basics	Describing words	Size & shape	tl'eqt	long
+Some Language Basics	Describing words	Size & shape	muqwitth’e’	thick strand (for ex, wool yarn)
+Some Language Basics	Describing words	Colours	p'uq'	white
+Some Language Basics	Describing words	Colours	tsq'ix	black
+Some Language Basics	Describing words	Colours	tskwim	red
+Some Language Basics	Describing words	Colours	tsqway	green, blue-green
+Some Language Basics	Describing words	Colours	ts-hwikw'	gray
+Some Language Basics	Describing words	Colours	tth'atth'uhwum	purple
+Some Language Basics	Describing words	Colours	*SPACE*
+Some Language Basics	Describing words	Colours	qwaqwuyul'	bluish (turning blue)
+Some Language Basics	Describing words	Colours	hwikw'ul	grayish (turning gray, fade to gray)
+Some Language Basics	Describing words	Colours	hwihwukw'ul	graying (turning, fading to gray)
+Some Language Basics	Describing words	Colours	kwimul	redish (become red, turn red)
+Some Language Basics	Describing words	Colours	kwikwumul'	red, becoming red, turning red
+Some Language Basics	Describing words	Colours	*SPACE*
+Some Language Basics	Describing words	Colours	p'q'alus	light
+Some Language Basics	Describing words	Colours	q'xalus	dark
+Some Language Basics	Describing words	Colours	kwimalus	reddish, pink
+Some Language Basics	Describing words	Colours	tskwimulus	brown
+Some Language Basics	Describing words	Colours	kwikwuma'lus	reddish brown
+Some Language Basics	Describing words	Colours	*SPACE*
+Some Language Basics	Describing words	Colours	kwulalu'alus	orange coloured (alder-coloured)
+Some Language Basics	Describing words	Colours	luluts'alus	yellow (Oregon grape-coloured)
+Some Language Basics	Describing words	Colours	saxwulalus	green (grass-coloured)
+Some Language Basics	Describing words	Colours	shkwitth'tsalus	blue (bluejay coloured)
+Some Language Basics	Describing words	Colours	tumlhalus	brown (ochre-coloured)
+Some Language Basics	Describing words	Colours	koulalus	gold (gold-coloured)
+Some Language Basics	Describing words	Colours	qel'qalus	pink (wild rose-coloured)
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	’uy’	good, fine, ok
+Some Language Basics	Describing words	Other adjectives	qul	bad
+Some Language Basics	Describing words	Other adjectives	sthuthi’	okay, right, correct, fine
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	’iyus	happy
+Some Language Basics	Describing words	Other adjectives	qiqul’us	sad
+Some Language Basics	Describing words	Other adjectives	si’si’	afraid
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	’uy’uy’mut	pretty, beautiful (thing)
+Some Language Basics	Describing words	Other adjectives	’iyas	pretty, cute
+Some Language Basics	Describing words	Other adjectives	’i’iyas	cute DIM
+Some Language Basics	Describing words	Other adjectives	quliima’	dirty, ugly
+Some Language Basics	Describing words	Other adjectives	xxx	clean
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	xew’s	new
+Some Language Basics	Describing words	Other adjectives	t’at	old (of the olden days)
+Some Language Basics	Describing words	Other adjectives	s’eluhw	old; an elder
+Some Language Basics	Describing words	Other adjectives	si’em’	respected, well-thought of
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	kw’am’kw’um’	strong 
+Some Language Basics	Describing words	Other adjectives	xxx	weak
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	hwutus	heavy
+Some Language Basics	Describing words	Other adjectives	xxx	light
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	tl’up	deep
+Some Language Basics	Describing words	Other adjectives	xxx	shallow
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	tsakw	far, distant
+Some Language Basics	Describing words	Other adjectives	xxx	close
+Some Language Basics	Describing words	Other adjectives	*SPACE*
+Some Language Basics	Describing words	Other adjectives	’ayum	slow
+Some Language Basics	Describing words	Other adjectives	xwum’	fast
+Some Language Basics	Describing words	Other adjectives	xwumshun	fast walker, walk fast
+The World Around Me	Forest animals	Meat-eaters	spe’uth	bear
+The World Around Me	Forest animals	Meat-eaters	spe’uthallh	bear cub
+The World Around Me	Forest animals	Meat-eaters	kw’uyutsun	grizzly bear
+The World Around Me	Forest animals	Meat-eaters	stqeeye’	wolf
+The World Around Me	Forest animals	Meat-eaters	hwtl’uqtnuts	cougar (“long-tailed”)
+The World Around Me	Forest animals	Meat-eaters	sq’eetl’	river otter
+The World Around Me	Forest animals	Meat-eaters	chuchi’q’un’	mink
+The World Around Me	Forest animals	Meat-eaters	qeyux	mink (as trickster in stories)
+The World Around Me	Forest animals	Meat-eaters	tth’amuqw’us	sasquatch (giant sasquatch)
+The World Around Me	Forest animals	Plant-eaters	*SPACE*
+The World Around Me	Forest animals	Plant-eaters	smuyuth	deer, deer meat
+The World Around Me	Forest animals	Plant-eaters	sumiyuth	deer (plural)
+The World Around Me	Forest animals	Plant-eaters	ha’put	deer (an old word, see smuyuth)
+The World Around Me	Forest animals	Plant-eaters	smim’yuthal’lh	deer: little fawn
+The World Around Me	Forest animals	Plant-eaters	smuyuthallh	fawn
+The World Around Me	Forest animals	Plant-eaters	st’it’le’	fawn
+The World Around Me	Forest animals	Plant-eaters	q’uyi’uts	moose
+The World Around Me	Forest animals	Plant-eaters	kwewe’uts	elk
+The World Around Me	Forest animals	Plant-eaters	p’q’ul’qun’	goat (mountain goat); goat’s wool
+The World Around Me	Forest animals	Plant-eaters	tth’upsi’athun’	squirrel
+The World Around Me	Forest animals	Plant-eaters	xwilchuqs	chipmunk
+The World Around Me	Forest animals	Plant-eaters	xuxp’itsun’	chipmunk (refers to marks on back)
+The World Around Me	Forest animals	Plant-eaters	squl’ew’	beaver
+The World Around Me	Forest animals	Plant-eaters	kw’et’un’	mouse
+The World Around Me	Forest animals	Other	*SPACE*
+The World Around Me	Forest animals	Other	sxayukw’us	raccoon
+The World Around Me	Forest animals	Other	puputth’in’	skunk
+The World Around Me	Forest animals	Other	pe’pu’iw’s	hairy animal, like gorilla
+The World Around Me	Forest animals	Other	slhul’p’ul’exun’	bat (animal)
+The World Around Me	Salt water animals	Mammals	*SPACE*
+The World Around Me	Salt water animals	Mammals	qwunus	whale
+The World Around Me	Salt water animals	Mammals	q'ullhanumutsun	killerwhale, blackfish		orca.jpg
+The World Around Me	Salt water animals	Mammals	kw'aant'	dolphin, porpoise
+The World Around Me	Salt water animals	Mammals	tumus	otter: sea otter	tanha2tzi1tzi1.wav	seaotter.jpg
+The World Around Me	Salt water animals	Mammals	tth’uyu	seal: fur seal
+The World Around Me	Salt water animals	Mammals	shes	sealion
+The World Around Me	Salt water animals	Fish	*SPACE*
+The World Around Me	Salt water animals	Fish	stseelhtun	fish (salmon)
+The World Around Me	Salt water animals	Fish	stseelhtun	salmon
+The World Around Me	Salt water animals	Fish	the’wun	salmon: coho, silver
+The World Around Me	Salt water animals	Fish	kw’a’luhw	salmon: dog salmon
+The World Around Me	Salt water animals	Fish	xil’e’ts	salmon: dog salmon, after spawning
+The World Around Me	Salt water animals	Fish	aan’	salmon: humpback (pinks)
+The World Around Me	Salt water animals	Fish	lhi’lhq’uw’s	salmon: jack spring salmon
+The World Around Me	Salt water animals	Fish	slhqul’exun’	salmon: side of wind-dried salmon
+The World Around Me	Salt water animals	Fish	thuqi’	salmon: sockeye; coho (smaller cohos which go up smaller streams)
+The World Around Me	Salt water animals	Fish	stth’aqwi’	salmon: spring salmon
+The World Around Me	Salt water animals	Fish	sine’uts	salmon: tyee, spring salmon after going upriver
+The World Around Me	Salt water animals	Fish	t’emukw’	roe: salmon eggs
+The World Around Me	Salt water animals	Fish	qwtaythun	sturgeon
+The World Around Me	Salt water animals	Fish	kw’suts	trout
+The World Around Me	Salt water animals	Fish	kw’uli’kw’suts	trouts: little trouts DIM
+The World Around Me	Salt water animals	Fish	’eyt	cod, lingcod
+The World Around Me	Salt water animals	Fish	t’q’as	cod: rock cod, black sea bass
+The World Around Me	Salt water animals	Fish	xuy’xuy’tl’	cod eggs (roe)
+The World Around Me	Salt water animals	Fish	tl’qw’ay’	milt
+The World Around Me	Salt water animals	Fish	slhewut’	herring
+The World Around Me	Salt water animals	Fish	ts’um’ush	roe: herring roe
+The World Around Me	Salt water animals	Fish	stsa’tx	halibut
+The World Around Me	Salt water animals	Fish	tuqwtuqw	red snapper
+The World Around Me	Salt water animals	Fish	stsa’kwum	smelt
+The World Around Me	Salt water animals	Fish	sxuw’q’um’	steelhead
+The World Around Me	Salt water animals	Fish	skwun’ehw	bullhead (sea and fresh water)
+The World Around Me	Salt water animals	Fish	kw’eets’	dogfish (shark)
+The World Around Me	Salt water animals	Fish	kw’uts’unulhtsu	shark
+The World Around Me	Salt water animals	Fish	skw’e’	eel
+The World Around Me	Salt water animals	Fish	*SPACE*
+The World Around Me	Salt water animals	Fish	sxuy’usa’qw	fish head
+The World Around Me	Salt water animals	Fish	slhqwun'u	fish cheeks
+The World Around Me	Salt water animals	Fish	sxup’shun’	fish tail
+The World Around Me	Salt water animals	Fish	q’utmun’	fin (fish fin)
+The World Around Me	Salt water animals	Beach creatures	s’axwa’	butter clam
+The World Around Me	Salt water animals	Beach creatures	skw’lhey’	littleneck clam
+The World Around Me	Salt water animals	Beach creatures	’ey’x	crab
+The World Around Me	Salt water animals	Beach creatures	’eyuxal’lh	crab (little, immature crabs)
+The World Around Me	Salt water animals	Beach creatures	musuqw	crab (Snuneymuhw)
+The World Around Me	Salt water animals	Beach creatures	kwukwatl’shun	crab: long-legged crab (edible in winter)
+The World Around Me	Salt water animals	Beach creatures	smul’sh	crab: soft-shelled crab
+The World Around Me	Salt water animals	Beach creatures	ma’mul’	crayfish (sand crayfish)
+The World Around Me	Salt water animals	Beach creatures	kwun’eem’mun’	scallop
+The World Around Me	Salt water animals	Beach creatures	sweem	horseclams
+The World Around Me	Salt water animals	Beach creatures	lhew’qum’	mussel
+The World Around Me	Salt water animals	Beach creatures	tl’uxwtl’uxw	oyster 
+The World Around Me	Salt water animals	Beach creatures	xihwu	sea egg, sea urchin (large type, purple with long spines)
+The World Around Me	Salt water animals	Beach creatures	skw’itth’i’	sea egg, sea urchin (small type, green with short spines)
+The World Around Me	Salt water animals	Beach creatures	thikwt	sea cucumber (red or black)
+The World Around Me	Salt water animals	Beach creatures	sqi’mukw’	octopus
+The World Around Me	Salt water animals	Beach creatures	tumulqlh	starfish
+The World Around Me	Salt water animals	Beach creatures	qumine’	abalone
+The World Around Me	Salt water animals	Beach creatures	s’eyuw’	abalone shell
+The World Around Me	Salt water animals	Beach creatures	tth’umay’u	barnacle
+The World Around Me	Salt water animals	Beach creatures	q’uye’mun	shell: sea shells
+The World Around Me	Birds	Bird words	sxtth'um	down (feather down)
+The World Around Me	Birds	Bird words	ts'usqun'	feather (wing and tail feathers of the eagle)
+The World Around Me	Birds	Bird words	skw'een'	feather: black, split eagle feathers
+The World Around Me	Birds	Bird words	shqw'ul'eshelu	nest: bird's nest
+The World Around Me	Birds	Songbirds — sqw'ulesh	skw’qequ	robin
+The World Around Me	Birds	Songbirds — sqw'ulesh	qw'uqw’sutsun’	swallow
+The World Around Me	Birds	Songbirds — sqw'ulesh	t’ut’um’	wren
+The World Around Me	Birds	Songbirds — sqw'ulesh	shwut	sparrow
+The World Around Me	Birds	Songbirds — sqw'ulesh	tth'utth'qaay'us	chickadee
+The World Around Me	Birds	Songbirds — sqw'ulesh	hum’a	pigeon
+The World Around Me	Birds	Songbirds — sqw'ulesh	q'uleeq’e’	crow
+The World Around Me	Birds	Songbirds — sqw'ulesh	skwitth’uts	Steller’s Jay
+The World Around Me	Birds	Songbirds — sqw'ulesh	piiq'	night hawk
+The World Around Me	Birds	Songbirds — sqw'ulesh	sxwut'ts'uli	hummingbird
+The World Around Me	Birds	Songbirds — sqw'ulesh	tumulhupsum	redheaded woodpecker
+The World Around Me	Birds	Songbirds — sqw'ulesh	ts'utum'	sapsucker woodpecker
+The World Around Me	Birds	Songbirds — sqw'ulesh	tth'iqt	common woodpecker
+The World Around Me	Birds	Songbirds — sqw'ulesh	miit'	grouse: blue grouse
+The World Around Me	Birds	Songbirds — sqw'ulesh	stihwum	grouse: like the blue grouse, but smaller and ruffled
+The World Around Me	Birds	Big birds — thuthuws (check spelling)	yuxwule’	bald eagle
+The World Around Me	Birds	Big birds — thuthuws (check spelling)	ts’usqun	golden eagle
+The World Around Me	Birds	Big birds — thuthuws (check spelling)	tsiitmuhw	great horned owl
+The World Around Me	Birds	Big birds — thuthuws (check spelling)	spulqwitth'e'	owl: screech owl
+The World Around Me	Birds	Big birds — thuthuws (check spelling)	spaal’	raven
+The World Around Me	Birds	Big birds — thuthuws (check spelling)	tth'ihwtth'uhw	fishhawk (osprey)
+The World Around Me	Birds	Big birds — thuthuws (check spelling)	xuxumels	hawk
+The World Around Me	Birds	Big birds — thuthuws (check spelling)	peeltth'	vulture; snake hawk
+The World Around Me	Birds	Big birds — thuthuws (check spelling)	smuqw’a’	great blue heron
+The World Around Me	Birds	Big birds — thuthuws (check spelling)	sliim	sandhill crane
+The World Around Me	Birds	Big birds — thuthuws (check spelling)	lhuthnuts	cormorant
+The World Around Me	Birds	Water fowl — ma'uqw	ma’uqw	duck
+The World Around Me	Birds	Water fowl — ma'uqw	ma’uqwallh	duckling
+The World Around Me	Birds	Water fowl — ma'uqw	tunuqsun	mallard
+The World Around Me	Birds	Water fowl — ma'uqw	sxul'ulwulh	duck: canvasback
+The World Around Me	Birds	Water fowl — ma'uqw	xuxq’un’e’	duck: bufflehead
+The World Around Me	Birds	Water fowl — ma'uqw	hwuhwtsi'qw	duck: bufflehead; hooded merganser
+The World Around Me	Birds	Water fowl — ma'uqw	qumut	duck: drake merganser
+The World Around Me	Birds	Water fowl — ma'uqw	xwaaqw’	merganser (sawbill)
+The World Around Me	Birds	Water fowl — ma'uqw	shwuyum	duck: goldeneye duck (common, Barrow's, American)
+The World Around Me	Birds	Water fowl — ma'uqw	’a’a’ni’	duck: steller's eider duck, old squaw
+The World Around Me	Birds	Water fowl — ma'uqw	*SPACE*
+The World Around Me	Birds	Water fowl — ma'uqw	’exu	Canada goose
+The World Around Me	Birds	Water fowl — ma'uqw	xul'xul'ts'	Brant goose
+The World Around Me	Birds	Water fowl — ma'uqw	tl'ekw'uxun	goose: domestic
+The World Around Me	Birds	Water fowl — ma'uqw	tl'ekw'uxun	goose: emperor, snow, and white-fronted
+The World Around Me	Birds	Water fowl — ma'uqw	qwuni	seagull
+The World Around Me	Birds	Water fowl — ma'uqw	qw'uqw'tiq'	seagull: small type, some are blackheaded
+The World Around Me	Birds	Water fowl — ma'uqw	qwum'qwum	American coot (bird: mudrunner, fresh and saltwater)
+The World Around Me	Birds	Water fowl — ma'uqw	shwuw’qun	swan
+The World Around Me	Birds	Water fowl — ma'uqw	swakwun	loon
+The World Around Me	Birds	Water fowl — ma'uqw	shhw'un'ets	grebe: horned grebe (similar to skwulkwulth but smaller)
+The World Around Me	Birds	Water fowl — ma'uqw	skwulkwulth	grebe: long-necked diver
+The World Around Me	Birds	Water fowl — ma'uqw	sxeetth'	murre
+The World Around Me	Birds	Water fowl — ma'uqw	kw'al'hw	scoter: white-winged scoter
+The World Around Me	Creepy-crawlies	Bugs	ts’um’ts’uyi	ant
+The World Around Me	Creepy-crawlies	Bugs	xwuyxwuyay’u	fly
+The World Around Me	Creepy-crawlies	Bugs	sum’sumay’u	bee
+The World Around Me	Creepy-crawlies	Bugs	shum’sumuy’elu	hive: beehive
+The World Around Me	Creepy-crawlies	Bugs	qwe’un	mosquito
+The World Around Me	Creepy-crawlies	Bugs	mumuxelh	caterpillar
+The World Around Me	Creepy-crawlies	Bugs	skw’ulwexe’	butterfly
+The World Around Me	Creepy-crawlies	Bugs	smuyuqw’a’	ladybug
+The World Around Me	Creepy-crawlies	Bugs	tth’utth’sh	dragonfly
+The World Around Me	Creepy-crawlies	Bugs	mushts’un	louse, lice
+The World Around Me	Creepy-crawlies	Bugs	t'at'ulhum'	flea
+The World Around Me	Creepy-crawlies	Bugs	xusht’en’	flea or louse eggs
+The World Around Me	Creepy-crawlies	Bugs	haputiil’	cricket, (also grasshopper)
+The World Around Me	Creepy-crawlies	Bugs	q’usq’ustsin’	spider—makes webs
+The World Around Me	Creepy-crawlies	Bugs	qutqutts’ala’	spider, black—doesn’t make webs, comes in spring
+The World Around Me	Creepy-crawlies	Bugs	ts’usts’ustsin’	spider, spiderweb
+The World Around Me	Creepy-crawlies	Bugs	siiye’tun	spider: black widow (red-backed, hairy spider)
+The World Around Me	Creepy-crawlies	Reptiles, amphibians, etc.	wuxus	frog: tree frog
+The World Around Me	Creepy-crawlies	Reptiles, amphibians, etc.	sxu’enhw	frog: the larger frog
+The World Around Me	Creepy-crawlies	Reptiles, amphibians, etc.	’ulhqi’	snake
+The World Around Me	Creepy-crawlies	Reptiles, amphibians, etc.	’e’ullhqi’	snakes
+The World Around Me	Creepy-crawlies	Reptiles, amphibians, etc.	siin’lhqi’	snake: a flying, two-headed snake – spiritual creature???
+The World Around Me	Creepy-crawlies	Reptiles, amphibians, etc.	stth’ukw’	worm
+The World Around Me	Creepy-crawlies	Reptiles, amphibians, etc.	pi’t-shun	lizard
+The World Around Me	Creepy-crawlies	Reptiles, amphibians, etc.	hwukw’netsum	salamander
+The World Around Me	Creepy-crawlies	Reptiles, amphibians, etc.	hwuhwuyim	leech
+The World Around Me	Creepy-crawlies	Reptiles, amphibians, etc.	q’uyatl’un’	slug (snail with no shell)
+The World Around Me	Creepy-crawlies	Reptiles, amphibians, etc.	wuq’uq’	snail (with shell)
+The World Around Me	Domesticated animals	Pets	sqwumey’	dog
+The World Around Me	Domesticated animals	Pets	sqwiqwmi’	little dog DIM
+The World Around Me	Domesticated animals	Pets	sqwumqwumey’	dogs
+The World Around Me	Domesticated animals	Pets	sqwumey’allh	puppy
+The World Around Me	Domesticated animals	Pets	sqwiqwmi’al’lh	little puppy
+The World Around Me	Domesticated animals	Pets	pous	cat
+The World Around Me	Domesticated animals	Pets	pish	cat (Snuneymuxw)
+The World Around Me	Domesticated animals	Pets	pou’ps	little cat DIM
+The World Around Me	Domesticated animals	Pets	pulou’ps	cats DIM
+The World Around Me	Domesticated animals	Pets	pou’ps’al’lh	kitten
+The World Around Me	Domesticated animals	Farm animals	chukuns	chicken
+The World Around Me	Domesticated animals	Farm animals	lumutou	sheep
+The World Around Me	Domesticated animals	Farm animals	neni	goat
+The World Around Me	Domesticated animals	Farm animals	kwushou	pig
+The World Around Me	Domesticated animals	Farm animals	mousmus	cow, cattle, beef
+The World Around Me	Domesticated animals	Farm animals	mousmusallh	calf
+The World Around Me	Domesticated animals	Farm animals	stiqiw	horse
+The World Around Me	Domesticated animals	Farm animals	hewt	rat
+The World Around Me	Domesticated animals	Farm animals	hehuw’t	little rat
+The World Around Me	Domesticated animals	Farm animals	sququweth	rabbit
+The World Around Me	Domesticated animals	Farm animals	lul'puts	little rabbit
+The World Around Me	Domesticated animals	Farm animals	chukunew’t-hw	chicken coop
+The World Around Me	Domesticated animals	Animal sounds	wuwa’us	bark (verb)
+The World Around Me	Domesticated animals	Animal sounds	huw’uw’us	barking
+The World Around Me	Domesticated animals	Animal sounds	xi’num	growl
+The World Around Me	Domesticated animals	Animal sounds	xixunum’	growling
+The World Around Me	Plants	Tree words	kwumluhw	root
+The World Around Me	Plants	Tree words	tth’e’lumutth’	needles (of a tree)
+The World Around Me	Plants	Tree words	tth’ul’ts’	needles (of a tree)
+The World Around Me	Plants	Tree words	sts’ushtutsus	branch
+The World Around Me	Plants	Tree words	p’isuts’	cone (pine cone, fir cone)
+The World Around Me	Plants	Tree words	p’uli’	bark (noun, for ex. of a tree)
+The World Around Me	Plants	Tree words	sluwi’	bark: inner cedar bark
+The World Around Me	Plants	Tree words	slhuqw’	barked or pulled off material
+The World Around Me	Plants	Tree words	tse’lumun	pole, sapling (wood)
+The World Around Me	Plants	Tree words	sxe’muth	sap: running sap
+The World Around Me	Plants	Tree words	s’ulnuts	stump
+The World Around Me	Plants	Tree words	s’uyumutth’	straight-grained (tree)
+The World Around Me	Plants	Tree words	s’uy’emutth’	straight-grained (tree)
+The World Around Me	Plants	Tree words	*SPACE*
+The World Around Me	Plants	Tree words	qw’umut	uproot, pull it out (for ex, hair)
+The World Around Me	Plants	Tree words	qw’um	uprooted (for ex, by the wind)
+The World Around Me	Plants	Trees	thqet	tree
+The World Around Me	Plants	Trees	thuthiqut	trees
+The World Around Me	Plants	Trees	hwthuthiqut	forest, woods
+The World Around Me	Plants	Trees	xpey’	cedar: red cedar
+The World Around Me	Plants	Trees	pashuluqw	cedar: yellow cedar
+The World Around Me	Plants	Trees	xpey’tsus	cedar bough(s)
+The World Around Me	Plants	Trees	qwul’utsus	cedar boughs
+The World Around Me	Plants	Trees	ts’sey’	douglas fir
+The World Around Me	Plants	Trees	thq’iinlhp	Spruce?, hemlock?
+The World Around Me	Plants	Trees	qwunulhp	pine: Princess pine? [grows on swampy ground, peeling skin]
+The World Around Me	Plants	Trees	kwulala’ulhp	alder
+The World Around Me	Plants	Trees	qaanlhp	arbutus
+The World Around Me	Plants	Trees	qw’uyi’lushulhp	aspen: trembling aspen
+The World Around Me	Plants	Trees	t’a’hw	balsam
+The World Around Me	Plants	Trees	smuqw’iws	pitch: balsam pitch
+The World Around Me	Plants	Trees	t’ulum’ulhp	cherry tree (wild cherry)
+The World Around Me	Plants	Trees	qwa’upulhp	crab-apple
+The World Around Me	Plants	Trees	qw’si’unlhp	cypress
+The World Around Me	Plants	Trees	tsuw’nulhp	cottonwood
+The World Around Me	Plants	Trees	kwi’txulhp	dogwood
+The World Around Me	Plants	Trees	p’tth’une’lhp	juniper
+The World Around Me	Plants	Trees	ts’qwulhp	larch (unsure)
+The World Around Me	Plants	Trees	ts’alhulhp	maple tree
+The World Around Me	Plants	Trees	q’umul’ulhp	maple tree: rangy ones at higher altitudes, used for paddles
+The World Around Me	Plants	Trees	pene’ulhp	maple: vine maple, used for paddles on paddle shirts
+The World Around Me	Plants	Trees	p’hwulhp	oak
+The World Around Me	Plants	Trees	sxwelu’elhp	willow (for willow baskets)
+The World Around Me	Plants	Trees	tuxwa’tsulhp	yew
+The World Around Me	Plants	Other (grasses, shrubs)	saxwul	grass
+The World Around Me	Plants	Other (grasses, shrubs)	q’uts’i’	moss
+The World Around Me	Plants	Other (grasses, shrubs)	sts’alha’	leaf
+The World Around Me	Plants	Other (grasses, shrubs)	tth’uxtth’ux	stinging nettles
+The World Around Me	Plants	Other (grasses, shrubs)	xuw’xuw’iinlhp	thistle
+The World Around Me	Plants	Other (grasses, shrubs)	sp’eq’um	flower, blossom
+The World Around Me	Plants	Other (grasses, shrubs)	q’it’a’ulhp	honeysuckle
+The World Around Me	Plants	Other (grasses, shrubs)	sqw’uqwtsus	huckleberries (red huckleberries)
+The World Around Me	Plants	Other (grasses, shrubs)	qel’qulhp	rose bush: wild rose
+The World Around Me	Plants	Other (grasses, shrubs)	qel’q	rose: wild rose
+The World Around Me	Plants	Other (grasses, shrubs)	stth’ulhp	orange blossom (a bush)
+The World Around Me	Plants	Other (grasses, shrubs)	t’um’hwtsus	gooseberry bush
+The World Around Me	Plants	Other (grasses, shrubs)	tl’ikw’un’	pea (and wild pea); Indian tobacco
+The World Around Me	Plants	Other (grasses, shrubs)	tushnetsulhp	saskatoon berry bush
+The World Around Me	Plants	Other (grasses, shrubs)	the’thqi’	sprouts, shoots (from thimbleberries, salal berries, blueberries, or fern)
+The World Around Me	Plants	Other (grasses, shrubs)	shishuts’	underbrush
+The World Around Me	Plants	Other (grasses, shrubs)	suqeen	fern: bracken fern
+The World Around Me	Plants	Other (grasses, shrubs)	se’uq	fern root: root of bracken fern
+The World Around Me	Plants	Other (grasses, shrubs)	tl’usip	fern: licorice fern (used as a sweetener)
+The World Around Me	Plants	Other (grasses, shrubs)	sthxelum	fern: sword fern
+The World Around Me	Plants	Other (grasses, shrubs)	xum’xum’	fern: horsetail fern
+The World Around Me	Plants	Other (grasses, shrubs)	sxu’enhween	plantain: broad leaved plantain
+The World Around Me	Plants	Other (grasses, shrubs)	kw’ul’xeen	plantain: rattlesnake plantain
+The World Around Me	Plants	Other (grasses, shrubs)	stth’e’qun	bullrush
+The World Around Me	Plants	Other (grasses, shrubs)	qwa’pulhp	devil’s club
+The World Around Me	Plants	Other (grasses, shrubs)	luluts’ulhp	Oregon grape
+The World Around Me	Plants	Other (grasses, shrubs)	speenhw	camas
+The World Around Me	Plants	Other (grasses, shrubs)	xwesumulhp	soapberry bush
+The World Around Me	Plants	Berries	stth’oom	berry
+The World Around Me	Plants	Berries	sqw’iil’muhw	blackberry
+The World Around Me	Plants	Berries	stsi’yu	strawberry
+The World Around Me	Plants	Berries	tsulqama’	raspberry
+The World Around Me	Plants	Berries	t’uqwum’	thimbleberry
+The World Around Me	Plants	Berries	lila’	salmonberry
+The World Around Me	Plants	Berries	t’eqe’	salaal berries
+The World Around Me	Plants	Berries	mal’sum’	cranberry
+The World Around Me	Plants	Berries	sxwesum	soapberry
+The World Around Me	Plants	Berries	t’em’hw	gooseberry
+The World Around Me	Plants	Berries	tth’uykwikw	elderberry: blue elderberries
+The World Around Me	Plants	Berries	tth’iwuq’	elderberry: red elderberries
+The World Around Me	Plants	Berries	tushnets	saskatoon berry
+The World Around Me	Plants	Berries	p’i’p’q’i’as	waxberry (snowberry)
+The World Around Me	Plants	Sea plants 	q’am’	kelp
+The World Around Me	Plants	Sea plants 	lhuq’us	seaweed (green)
+The World Around Me	Plants	Sea plants 	XXX	seaweed (brown)
+The World Around Me	Plants	Sea plants 	qw’aqwuqw	bladderwrack
+The World Around Me	Nature	Elements	qa’	water
+The World Around Me	Nature	Elements	kw’atl’kwa	saltwater
+The World Around Me	Nature	Elements	xuytl’ulhqa’	cold water
+The World Around Me	Nature	Elements	st’iqul’	mud
+The World Around Me	Nature	Elements	tumuhw	earth, ground
+The World Around Me	Nature	Elements	suyq’	clay
+The World Around Me	Nature	Elements	mumun’us	small rocks, round objects PL
+The World Around Me	Nature	Elements	kw’unt’als	stone: smooth black stone
+The World Around Me	Nature	Elements	pqwutsun	sand
+The World Around Me	Nature	Elements	pqwutsun’	sand
+The World Around Me	Nature	Elements	saxwul	grass
+The World Around Me	Nature	Elements	tth’xut	gravel
+The World Around Me	Nature	Elements	sts’esht	stick
+The World Around Me	Nature	Elements	qwlhey’	log
+The World Around Me	Nature	Elements	qwuqwilhi’	logs
+The World Around Me	Nature	Elements	st’epi’	log: rotten log
+The World Around Me	Nature	Elements	qwa’tsup	ashes
+The World Around Me	Nature	Elements	sqw’a’uytsup	soot
+The World Around Me	Nature	Elements	stl’eyuq’um	smoke (noun)
+The World Around Me	Nature	Elements	chickmun	metal (also knitting needles)
+The World Around Me	Nature	Elements	sqw’ullus	copper
+The World Around Me	Nature	Celestial	sum’shathut	sun
+The World Around Me	Nature	Celestial	syaqwum	sun: heat of the sun
+The World Around Me	Nature	Celestial	thuqul’shetun’	sunbeam
+The World Around Me	Nature	Celestial	lhqelts’	moon; month
+The World Around Me	Nature	Celestial	lhuqul’ts’	moonlight shining
+The World Around Me	Nature	Celestial	kwasun	star
+The World Around Me	Nature	Celestial	kwa’kwsun’	star DIM
+The World Around Me	Nature	Celestial	sthu’et	pitchblack night (no moon)
+The World Around Me	Nature	Celestial	qi’xune’tun	shadow
+The World Around Me	Nature	Geography of the land	smeent	rock, mountain
+The World Around Me	Nature	Geography of the land	smem’nut	pebble, little mountain
+The World Around Me	Nature	Geography of the land	smunmeent	rocks
+The World Around Me	Nature	Geography of the land	pi’paam	peak of Mt Tzouhalem
+The World Around Me	Nature	Geography of the land	shkwulhkwulh	face of mountain, (rocky)-bluff
+The World Around Me	Nature	Geography of the land	tsa’luqw	upward slope (of the mountains)
+The World Around Me	Nature	Geography of the land	tsul’tsa’luqw	up in the mountains PL
+The World Around Me	Nature	Geography of the land	ts’eemtuxun	bare rocky mountain (for ex, Beacon Hill in Victoria)
+The World Around Me	Nature	Geography of the land	spulhxun	field, clearing
+The World Around Me	Nature	Geography of the land	tl’xwunup	hard ground
+The World Around Me	Nature	Geography of the land	spkw’um	dust
+The World Around Me	Nature	Geography of the land	*SPACE*
+The World Around Me	Nature	Geography of the land	xatsa’	lake; swamp
+The World Around Me	Nature	Geography of the land	xa’lutsa’	lakes
+The World Around Me	Nature	Geography of the land	p’aqwul	swampy (water recedes from flood until the ground is visible)
+The World Around Me	Nature	Geography of the land	sheshum’	shallows
+The World Around Me	Nature	Geography of the land	shqaqul’	puddle, pool
+The World Around Me	Nature	Geography of the land	sta’luw’	river
+The World Around Me	Nature	Geography of the land	stulta’luw’	rivers
+The World Around Me	Nature	Geography of the land	statluw’	creek (river DIM)
+The World Around Me	Nature	Geography of the land	sts’e’shun	rapids
+The World Around Me	Nature	Geography of the land	shxwoom	rapids
+The World Around Me	Nature	Geography of the land	q’uy’uxum	whirlpool
+The World Around Me	Nature	Geography of the land	tsilhus	steep bank, mound, steep place
+The World Around Me	Nature	Geography of the land	’i’la’th	mouth of river
+The World Around Me	Nature	Geography of the ocean 	shqwun’u	ocean, big water
+The World Around Me	Nature	Geography of the ocean 	hwtuy’tiim’	tide reverses against the waterflow (for ex, at the mouth of a river)
+The World Around Me	Nature	Geography of the ocean 	hwts’alum	tide turns
+The World Around Me	Nature	Geography of the ocean 	squm’il’	tide: high tide
+The World Around Me	Nature	Geography of the ocean 	stth’em	tide: the outgoing tide
+The World Around Me	Nature	Geography of the ocean 	tsukwtsukw	low tide
+The World Around Me	Nature	Geography of the ocean 	shum’shum’	low tide
+The World Around Me	Nature	Geography of the ocean 	tskwalus	low tide (very low, when the water goes way out)
+The World Around Me	Nature	Geography of the ocean 	sul’lits’	high tide
+The World Around Me	Nature	Geography of the ocean 	tsetsuw’	beach: down by a beach or river bank
+The World Around Me	Nature	Geography of the ocean 	lheel	shore: come to shore, go from centre to the side of the longhouse
+The World Around Me	Nature	Geography of the ocean 	lhulheel’	shore: going ashore
+The World Around Me	Nature	Geography of the ocean 	tth’itth’uxwum’	sandbar
+The World Around Me	Nature	Geography of the ocean 	s’ulqsun	point of land; spit (land)
+The World Around Me	Nature	Geography of the ocean 	s’uthnuts	bay (on fresh or saltwater)
+The World Around Me	Nature	Geography of the ocean 	qequm’	calm spot in water, or calm when the tide is changing
+The World Around Me	Nature	Geography of the ocean 	sqequm’	eddy, calm water
+The World Around Me	Nature	Geography of the ocean 	meyuqum	ripple (of water)
+The World Around Me	Nature	Geography of the ocean 	ti’telhnulh	wind goes against the water
+The World Around Me	Nature	Geography of the ocean 	sqtheq	narrows
+The World Around Me	Nature	Geography of the ocean 	skwthe’	island
+The World Around Me	Nature	Geography of the ocean 	skwi’kwthe’	island DIM (for ex, little island)
+The World Around Me	Nature	Weather	sum’shathut	sun
+The World Around Me	Nature	Weather	shhw’ethutun	cloud
+The World Around Me	Nature	Weather	shhwun’was	cloudy
+The World Around Me	Nature	Weather	spu’ehw	foggy
+The World Around Me	Nature	Weather	pe’hwemtum	foggy, fogged up
+The World Around Me	Nature	Weather	sa’sxw	dew
+The World Around Me	Nature	Weather	slhumuhw	rain (noun)
+The World Around Me	Nature	Weather	sthuqul’shunum	rainbow
+The World Around Me	Nature	Weather	thuqul’shunum’	rainbow
+The World Around Me	Nature	Weather	xuxun’	frost
+The World Around Me	Nature	Weather	sthima’	ice
+The World Around Me	Nature	Weather	sthithuma’	frozen, icy
+The World Around Me	Nature	Weather	sthimu’els	freezing weather
+The World Around Me	Nature	Weather	tth’al’xwum’	shining, glistening (off of snow, ice, frost), shiny
+The World Around Me	Nature	Weather	sqwulqwalxw	hail
+The World Around Me	Nature	Weather	meqe’	snow (noun)
+The World Around Me	Nature	Weather	yiq	snow (to snow)
+The World Around Me	Nature	Weather	yiy’uq	snowing
+The World Around Me	Nature	Weather	sme’muqe’	snow (covered with snow)
+The World Around Me	Nature	Weather	pupeel’s	breezing
+The World Around Me	Nature	Weather	spuhels	wind (noun)
+The World Around Me	Nature	Weather	stsuhwum	wind (noun)
+The World Around Me	Nature	Weather	xetl’	windy (stormy breeze)
+The World Around Me	Nature	Weather	xatl’thut	stormy, blowing hard
+The World Around Me	Nature	Weather	paal’exutun’	wind that brings the birds (gale force wind)
+The World Around Me	Nature	Weather	satuts	north wind (brings ice)
+The World Around Me	Nature	Weather	s-hwuhwa’us	thunder
+The World Around Me	Nature	Weather	tth’ukw’tth’ukw’ul’	lightening
+The World Around Me	Nature	Weather	*SPACE*
+The World Around Me	Nature	Weather	tl’ehwum’	warm (weather, blanket, room)
+The World Around Me	Nature	Weather	xuytl’	cold
