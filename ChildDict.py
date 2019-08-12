@@ -71,7 +71,6 @@ class EntryObject:
         '''make headword and definition tags'''
         headwordTag = '<div class="headword">%s</div>' %self.headword
         defTag = '<div class="definition">%s</div>' %self.definition
-        #htmlDoc = yattag.Doc()
         if self.graphixfile:
             '''build HTML for entry with picture'''
             html = '<div class="entryWithGraphics"><div class="stackedEntry">%s %s</div><div class="imageBox">%s</div><div class="buttonColumn"> %s</div></div>' %(headwordTag, defTag, imgTag, buttonTag)    
@@ -87,6 +86,7 @@ def getCSS():
     return(css)    
 
 def getJava():
+    '''gets the javascript for the main page wireframe (fill iframe)'''
     script2 = '''
 function changeUrl(target) {
      document.getElementsByName('wordlists')[0].src = target;
@@ -95,6 +95,7 @@ function changeUrl(target) {
     return(scriptTag)
     
 def getSubJava():
+    '''gets the javascript for the sub pages (play sound)'''
     script1 = '''
 function playSample(audioID) {
     var audio = new Audio(audioID);
@@ -104,7 +105,8 @@ function playSample(audioID) {
     return(scriptTag)
 
 def makeSubpage(subtopic):
-    '''make an .html file for this subtopic'''
+    '''make an .html file for this subtopic;
+    input is nestedlist [subtopic,[entry, ...]]'''
     htmlDoc = yattag.Doc()
     htmlDoc.asis('<!DOCTYPE html>')
     with htmlDoc.tag('html', lang="en"):
