@@ -1,4 +1,3 @@
-'''styles for main page'''
 .container {
 	display: grid;
 	grid-gap: 10px;
@@ -8,7 +7,6 @@
     'header header header'
     'nav dictionary dictionary'
 }
-
 .header {
 	font-size: xx-large;
 	grid-area: header;
@@ -16,7 +14,6 @@
 	align-self: center;
 	height: 100px;
 }
-
 .nav {
 	grid-area: nav;
 	border: 1px solid black; 
@@ -24,7 +21,6 @@
 	height:736px;
 	overflow: auto;
 }
-
 .dictionary {
 	grid-area: dictionary;
   	justify-self: center;
@@ -35,23 +31,42 @@ iframe {
 	width:824px;
 	height:750px;
 	scrDoc: 'frontPage.html';
-	padding-bottom: 10px;
 }
 
-'''styles for subpages'''
-H1 {
-	font-size: xx-large;
-	border-bottom: 1px solid red;
-	text-align: center;
+.entryWithGraphics {
+	margin-bottom: 20px;
+	display: grid;
+	grid-gap: 20px;
+	justify-content: start;
+	align-content: center;
+	grid-template-columns: 200px 400px auto;
+	grid-template-areas:
+    'entry graphic buttonColumn'
 }
-.banner {
-	width: 100%;
-}
-
-'''styles for entry with no graphics in subpages'''
-.entry {
+.stackedEntry {
 	grid-area: entry;
-	margin-bottom: 10px;
+	grid-gap: 25px;
+	align-content: space-between;
+	justify-content: start;
+	grid-template-rows: 75px 75px;
+	grid-template-areas:
+	'headword'
+	'definition'
+}
+.stackedEntry .headword {
+	margin-top: 80px;
+	margin-left: 5px;
+}
+.stackedEntry .definition {
+	margin-left: 5px;
+}
+.stackedEntry button {
+	margin-top: 5px;
+	margin-left: 50px;
+}
+.entry { 
+	grid-area: entry;
+	margin-bottom: 20px;
 	display: grid;
 	grid-gap: 20px;
 	justify-content: start;
@@ -59,7 +74,6 @@ H1 {
 	grid-template-areas:
     'headword definition button'
 }
-
 .headword {
 	font-weight: bold;
 	#display: inline;
@@ -74,13 +88,16 @@ H1 {
 	grid-area: definition;
 	font-size: x-large;
 }
+.thumb {
+	grid-area: graphic;
+	max-width: 350px;
+}
 
 button {
 	grid-area: button;
 	height: 25px;
 	width: 60px;
 }
-
 .buttonColumn {
 	display: grid;
 	justify-content: start;
@@ -90,61 +107,28 @@ button {
 	grid-area-template:
 	'button'
 }
-
-'''styles for 3-column lexical entry with graphic in subpages'''
-.entryWithGraphics {
-	margin-bottom: 20px;
-	display: grid;
-	grid-gap: 20px;
-	justify-content: start;
-	align-content: center;
-	grid-template-columns: 200px 400px auto;
-	grid-template-areas:
-    'entry graphic buttonColumn'
-}
-
-.stackedEntry {
-	grid-area: entry;
-	grid-gap: 25px;
-	align-content: space-between;
-	justify-content: start;
-	grid-template-rows: 75px 75px;
-	grid-template-areas:
-	'headword'
-	'definition'
-}
-
-.stackedEntry .headword {
-	margin-top: 80px;
-	margin-left: 5px;
-}
-
-.stackedEntry .definition {
-	margin-left: 5px;
-}
-
-.thumb {
-	grid-area: graphic;
-	max-width: 350px;
-}
-
-'''styles for the nav sidebar'''
 .TOCheader {
 	margin-left: 10px;
 	margin-top: 15px;
 	font-size: x-large;
 	border-bottom: 1px solid red;
 }
-
 .TOCentry {
 	margin-left: 25px;
 	margin-top: 5px;
 	font-size: large;
 }
-
 .TOCsuperheader{
 	font-weight: bold;
 	margin-top: 15px;
 	font-size: x-large;
 	border-bottom: 5px double red;
+}
+H1 {
+	font-size: xx-large;
+	border-bottom: 1px solid red;
+	text-align: center;
+}
+.banner {
+	width: 100%;
 }
